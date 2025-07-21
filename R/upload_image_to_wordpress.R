@@ -6,10 +6,6 @@ library(jsonlite)
 library(tidyverse)
 library(janitor)
 
-image_details_unique <- read_rds(here("data", "image_details.rds")) |>
-  distinct(resolved_id, .keep_all = TRUE) |>
-  filter(is_image == TRUE)
-
 select_image <- image_details_unique |>
   filter(resolved_id == "11qpXg9hwyD4x1TVbk_C4-Yc_OO1kqLCk")
 
