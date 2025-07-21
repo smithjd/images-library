@@ -11,7 +11,7 @@ library(tidyverse)
 library(janitor)
 library(base64enc)
 library(ollamar)
-
+library(exifr)
 
 image_details <- read_rds(here("data", "image_details.rds"))
 nrow(image_details)
@@ -99,6 +99,12 @@ result <- describe_image(here::here("images", select_image$title))
 end_time <- Sys.time()
 elapsed_time <- end_time - start_time
 print(elapsed_time)
+
+# exif_data <- read_exif(here::here("images", select_image$title))
+exif_data <- read_exif(here::here("images", "new_file.jpeg"))
+
+# View all available metadata
+str(exif_data)
 
 # parts <- str_split(text, "/")[[1]]
 #

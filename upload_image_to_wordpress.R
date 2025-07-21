@@ -21,7 +21,7 @@ auth_header <- httr2::request("https://portland.shambhala.org") |>
 
 
 # Upload image to WordPress media library
-upload_response <- httr2::request("https://portland.shambhala.org/wp-json/wp/v2/media") |>
+upload_response <- httr2::request("https://images.shambhala.org/wp-json/wp/v2/media") |>
   httr2::req_auth_basic(Sys.getenv("SHAMBHALA_WORDPRESS_ID"),
                         Sys.getenv("SHAMBHALA_WORDPRESS_APP_PW")) |>
   httr2::req_body_file(path =  here("images", select_image$title),
