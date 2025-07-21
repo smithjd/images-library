@@ -1,0 +1,42 @@
+---
+title: "Find correct URL links"
+author: "John D. Smith"
+date: "2025-07-10"
+output: html_document
+---
+
+Construct a data dictionary from the SDB dump/reload
+
+Run the SDB extract in batches of 20 tables at a time.  put them all together and upload to a conveient Google Doc.
+
+```{r load libraries}
+library(tidyverse)
+library(lubridate)
+library(tidyr)
+library(janitor)
+library(glue)
+library(here)
+library(googlesheets4)
+library(googledrive)
+library(ourmirror)
+
+today <- Sys.Date()
+
+
+job_doc <- mrr_job_doc()
+
+```
+
+Get the images spreadsheet
+
+```{r}
+images_spreadsheet <- read_sheet("https://docs.google.com/spreadsheets/d/1oKNLxr6IuZ_DQ4fUCyxE7qxF_RtIISay8QeoIz8o4ag/edit?gid=1239795533#gid=1239795533") |> 
+  clean_names()
+```
+
+contents of google drive info
+
+```{r}
+drive_id_list <- drive_get(as_id(images_spreadsheet$id))
+```
+
