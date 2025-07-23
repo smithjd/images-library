@@ -11,32 +11,12 @@ library(tidyverse)
 library(janitor)
 library(base64enc)
 library(ollamar)
-library(exifr)
 
-image_details <- read_rds(here("data", "image_details.rds"))
-nrow(image_details)
+# for testing
 
-image_details_unique <- image_details |>
-  distinct(resolved_id, .keep_all = TRUE) |>
-  filter(is_image == TRUE)
-
-nrow(image_details_unique)
-
-# drive_download(file = as_id("1HxnBhHlvhQymDMxVfuTi6669eyZ_RefF"),
-#                path = here("images", "new_file.jpeg"), overwrite = TRUE)
-#
-# drive_download(file = as_id("1perxmohAqnRfJH6G8HoVxikfgVR6L5xR"),
-#                path = here("images", "100089371_2933508173363085_1929774139472609280_n.jpg"), overwrite = TRUE)
-
-# drive_download(file = as_id("1NeUOPTkgCQLkAw1RdkvUZZ6cUUIpFz9Y"),
-#                path = here("images", "test_.jpg"), overwrite = TRUE)
-
-select_image <- image_details_unique |>
-  filter(resolved_id == "11qpXg9hwyD4x1TVbk_C4-Yc_OO1kqLCk") |>
-  mutate(directory_tag = str_extract(directory, "[^/]+$"))
-
-drive_download(file = as_id(select_image$resolved_id),
-               path = here("images", select_image$title), overwrite = TRUE)
+image_folder <- "~/Downloads/"
+image_name <- "karmê-chöling-main-shrine-room-large-gong-with-blue-meditation-cushion-view-from-slightly-above.jpg"
+image_path <- paste0(image_folder, image_name)
 
 describe_image <- function(image_path) {
   cat("Starting image description for:", image_path, "\n")
@@ -84,31 +64,5 @@ describe_image <- function(image_path) {
   })
 }
 
-start_time <- Sys.time()
-# Your long-running code here
-result <- describe_image(here::here("images", "test_.jpg"))
-
-end_time <- Sys.time()
-elapsed_time <- end_time - start_time
-print(elapsed_time)
-
-start_time <- Sys.time()
-# Your long-running code here
-result <- describe_image(here::here("images", select_image$title))
-
-end_time <- Sys.time()
-elapsed_time <- end_time - start_time
-print(elapsed_time)
-
-# exif_data <- read_exif(here::here("images", select_image$title))
-exif_data <- read_exif(here::here("images", "new_file.jpeg"))
-
-# View all available metadata
-str(exif_data)
-
-# parts <- str_split(text, "/")[[1]]
-#
-# last <- parts[length(parts)]
-# penultimate <- parts[length(parts) - 1]
-
 # result <- describe_image("/Users/jds/Documents/cch/SGS_IT/3-0-websites-rollout/images-library/images/new_file.jpeg")
+result <- describe_image(image_path)

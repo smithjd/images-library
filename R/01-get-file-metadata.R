@@ -1,4 +1,4 @@
-# get_file_metadata_v2.R
+# 01-get-file-metadata.R
 
 library(googledrive)
 library(googlesheets4)
@@ -361,15 +361,6 @@ cat("Status:", test_result$status, "\n\n")
 #
 # print(resolution_summary)
 
-####
-# Test with your specific example
-# test_id <- "1OF2gubExHJ-VMByOTilER_bpoHVBSSxz"
-# cat("Testing ID resolution with your example...\n")
-# test_result <- resolve_drive_id(test_id)
-# cat("Original ID:", test_result$original_id, "\n")
-# cat("Resolved ID:", test_result$resolved_id, "\n")
-# cat("Status:", test_result$status, "\n\n")
-
 images_spreadsheet <- read_sheet("https://docs.google.com/spreadsheets/d/1oKNLxr6IuZ_DQ4fUCyxE7qxF_RtIISay8QeoIz8o4ag/edit?gid=1239795533#gid=1239795533") |>
   clean_names()
 
@@ -379,16 +370,6 @@ images_spreadsheet <- read_sheet("https://docs.google.com/spreadsheets/d/1oKNLxr
 
 your_file_ids <- images_spreadsheet$id
 
-
-# Example usage for all your files:
-# Replace this with your actual list of file IDs/URLs
-# your_file_ids <- c(
-#   "1OF2gubExHJ-VMByOTilER_bpoHVBSSxz",  # Your example
-#   # ... add your other 1399 file IDs here
-# )
-
-# If you have your IDs in a CSV file:
-# your_file_ids <- read.csv("file_ids.csv")$file_id
 
 # Process all files with ID resolution
 image_details <- process_image_files_with_resolution(images_spreadsheet$id)
