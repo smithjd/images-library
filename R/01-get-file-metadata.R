@@ -414,3 +414,11 @@ ss <- gs4_create(
 )
 gs4_browse(ss)
 
+kcl_images_spreadsheet <- read_sheet("https://docs.google.com/spreadsheets/d/1oKNLxr6IuZ_DQ4fUCyxE7qxF_RtIISay8QeoIz8o4ag/edit?gid=1853901660#gid=1853901660",
+                                     sheet = "KCL_Images_For_Import") |>
+  clean_names() |>
+  select(folder_description, target_filename,
+         text_description_for_text_and_filename) |>
+  mutate(folder_description = str_remove(folder_description, "\n\n---"))
+
+write_rds(kcl_images_spreadsheet, here("data", "kcl_images_spreadsheet.rds"))
