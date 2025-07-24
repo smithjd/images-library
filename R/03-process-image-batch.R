@@ -11,19 +11,6 @@ library(httr2)
 library(janitor)
 library(base64enc)
 library(ollamar)
-library(exifr)
-
-#### HOLDING
-
-
-# select_image <- image_details_unique |>
-#   filter(resolved_id == "11qpXg9hwyD4x1TVbk_C4-Yc_OO1kqLCk") |>
-#   mutate(directory_tag = str_extract(directory, "[^/]+$"))
-#
-# drive_download(file = as_id(select_image$resolved_id),
-#                path = here("images", select_image$title), overwrite = TRUE)
-
-
 
 # =============================================================================
 # CONFIGURATION SECTION
@@ -31,12 +18,12 @@ library(exifr)
 
 # Batch configuration
 BATCH_START_ROW <- 1      # Starting row number (1-based indexing)
-BATCH_SIZE <- 10          # Number of images to process in this batch
+BATCH_SIZE <- 2          # Number of images to process in this batch
 LOG_FILE <- "image_processing_log.txt"
 ERROR_LOG <- "image_processing_errors.txt"
 
 # File paths
-IMAGE_DATA_FILE <- read_rds(here("data", "image_details_unique.rds"))
+IMAGE_DATA_FILE <- here("data", "kcl_images_spreadsheet.rds")
 
 # API configurations
 drive_auth(email = "john.smith@shambhala.info")
@@ -58,10 +45,10 @@ log_message <- function(message, log_file = LOG_FILE) {
 }
 
 # Error logging function
-log_error <- function(error_msg, resolved_id = NULL, error_file = ERROR_LOG) {
+log_error <- function(error_msg, google_image_id = NULL, error_file = ERROR_LOG) {
   timestamp <- format(Sys.time(), "%Y-%m-%d %H:%M:%S")
-  if (!is.null(resolved_id)) {
-    error_entry <- paste0("[", timestamp, "] ERROR - Image ID ", resolved_id, ": ", error_msg)
+  if (!is.null(google_image_id)) {
+    error_entry <- paste0("[", timestamp, "] ERROR - Image ID ", google_image_id, ": ", error_msg)
   } else {
     error_entry <- paste0("[", timestamp, "] ERROR: ", error_msg)
   }
@@ -69,10 +56,16 @@ log_error <- function(error_msg, resolved_id = NULL, error_file = ERROR_LOG) {
   write(error_entry, file = error_file, append = TRUE)
 }
 
-get_google_drive_image <- function(resolved_id, title){
-  drive_download(file = as_id(resolved_id),
-                 path = here("images", title), overwrite = TRUE)
-  local_image_file <- here("images", title)
+get_google_drive_image <- function(
+  google_image_id,
+  local_image_location
+) {
+  local_file_directory <- "~/Downloads/"
+  drive_download(
+    file = as_id(google_image_id),
+    path = paste0(local_file_directory, local_image_location),
+    overwrite = TRUE
+  )
 }
 
 get_ollama_description <- function(local_image_file) {
@@ -87,19 +80,20 @@ get_ollama_description <- function(local_image_file) {
     # Use ollamar's generate function with image
     response <- ollamar::generate(
       model = "llama3.2-vision:latest",
-      prompt = "Write a brief description of this image in exactly 2-3 sentences. Include the most important objects, people, setting, and text if any. Be concise.",
+      prompt = "Write a brief description of this image in exactly 2-3 sentences.
+      Include the most important objects, people, setting, and text if any. Be concise.",
       images = local_image_file,
       stream = FALSE
     )
 
-    # Extract the JSON content from the response body
+    # Extract the JSON content from the ollama_response body
     if (inherits(response, "httr2_response")) {
       # Parse the JSON response body
       response_text <- rawToChar(response$body)
       response_json <- jsonlite::fromJSON(response_text)
 
-      cat("Parsed response structure:\n")
-      str(response_json)
+      # cat("Parsed response structure:\n")
+      # str(response_json)
 
       # Extract the actual response text
       if ("response" %in% names(response_json)) {
@@ -120,6 +114,63 @@ get_ollama_description <- function(local_image_file) {
   })
 }
 
+upload_to_wordpress <- function(
+  local_image_location,
+  real_image_file_name,
+  text_description_for_text_and_filename,
+  ollama_description,
+  folder_description
+) {
+  upload_response <- httr2::request(
+    "https://images.shambhala.org/wp-json/wp/v2/media"
+  ) |>
+    httr2::req_auth_basic(
+      Sys.getenv("SHAMBHALA_WORDPRESS_ID"),
+      Sys.getenv("SHAMBHALA_WORDPRESS_APP_PW")
+    ) |>
+    httr2::req_body_file(path = local_image_location, type = "image/jpeg") |>
+    httr2::req_headers(
+      "Content-Disposition" = paste0(
+        'attachment; filename="',
+        real_image_file_name,
+        '"'
+      )
+    ) |>
+    httr2::req_perform()
+
+  # Extract the media ID from response
+
+  media_data <- upload_response |> httr2::resp_body_json()
+  media_id <- media_data$id
+
+  # Prepare metadata payload
+
+  metadata_payload <- list(
+    title = real_image_file_name,
+    description = paste0(
+      text_description_for_text_and_filename,
+      ". ",
+      ollama_description, "\n\n",
+      folder_description, "."
+    ),
+    alt_text = text_description_for_text_and_filename
+  )
+
+  # Update the media item with metadata
+  update_response <- httr2::request(paste0(
+    "https://images.shambhala.org/wp-json/wp/v2/media/",
+    media_id
+  )) |>
+    httr2::req_auth_basic(
+      Sys.getenv("SHAMBHALA_WORDPRESS_ID"),
+      Sys.getenv("SHAMBHALA_WORDPRESS_APP_PW")
+    ) |>
+    httr2::req_method("POST") |>
+    httr2::req_body_json(metadata_payload) |>
+    httr2::req_perform()
+}
+
+# check https://images.shambhala.org/wp-admin/upload.php
 # =============================================================================
 # MAIN PROCESSING FUNCTION (PLACEHOLDER)
 # =============================================================================
@@ -127,39 +178,48 @@ get_ollama_description <- function(local_image_file) {
 # This function processes a single image through the entire pipeline
 # You'll need to implement the actual Google Drive, Ollama, and WordPress logic
 process_single_image <- function(image_row) {
-  resolved_id <- image_row$resolved_id
-  title <- image_row$title
-  directory <- image_row$title
-  created_date <- image_row$created_date
+  google_image_id <- image_row$url
+  real_image_file_name <- image_row$target_filename
+  folder_description <- image_row$folder_description
+  text_description_for_text_and_filename <-
+    image_row$text_description_for_text_and_filename
+  local_file_directory <- "~/Downloads/"
+  local_image_location <- paste0(local_file_directory, real_image_file_name)
 
   tryCatch({
-    log_message(paste("Starting processing for image ID:", resolved_id))
+    log_message(paste("Starting processing for image ID:", google_image_id))
 
     # Step 1: Download from Google Drive
-    log_message(paste("Downloading image ID", resolved_id, "from Google Drive"))
-    downloaded_file <- get_google_drive_image(resolved_id, title)
+    log_message(paste("Downloading image ID", google_image_id, "from Google Drive"))
+    downloaded_file <- get_google_drive_image(google_image_id, real_image_file_name)
 
     # Step 2: Get description from Ollama
-    log_message(paste("Getting description for image ID", resolved_id, "from Ollama"))
+    log_message(paste("Getting description for image ID", google_image_id, "from Ollama"))
 
-    description <- get_ollama_description(downloaded_file)
+    ollama_description <- get_ollama_description(local_image_location)
 
     # Step 3: Upload to WordPress
-    log_message(paste("Uploading image ID", resolved_id, "to WordPress"))
-    # TODO: Implement WordPress upload logic
-    # wp_response <- upload_to_wordpress(downloaded_file, image_row, description)
+    log_message(paste("Uploading image ID", google_image_id, "to WordPress"))
+
+    upload_to_wordpress(
+      local_image_location,
+      real_image_file_name,
+      text_description_for_text_and_filename,
+      ollama_description,
+      folder_description
+    )
 
     # Step 4: Clean up temporary files
 
-    if (file.exists(downloaded_file)) file.remove(downloaded_file)
+    if (file.exists(local_image_location)) file.remove(local_image_location)
 
-    log_message(paste("Successfully processed image ID:", resolved_id))
-    return(list(success = TRUE, resolved_id = resolved_id))
+    log_message(paste("Successfully processed:", real_image_file_name))
+    return(list(success = TRUE, google_image_id = google_image_id))
 
   }, error = function(e) {
     error_msg <- paste("Failed to process image:", e$message)
-    log_error(error_msg, resolved_id)
-    return(list(success = FALSE, resolved_id = resolved_id, error = e$message))
+    log_error(error_msg, google_image_id)
+    return(list(success = FALSE, google_image_id = google_image_id, error = e$message))
   })
 }
 
@@ -179,7 +239,7 @@ main <- function() {
       stop(paste("Image data file not found:", IMAGE_DATA_FILE))
     }
 
-    image_data <- IMAGE_DATA_FILE
+    image_data <- read_rds(IMAGE_DATA_FILE)
     log_message(paste("Loaded image data with", nrow(image_data), "total images"))
 
   }, error = function(e) {
@@ -214,7 +274,7 @@ main <- function() {
     image_row <- batch_data[i, ]
 
     log_message(paste("Processing image", i, "of", nrow(batch_data),
-                      "(row", current_row, ", ID:", image_row$resolved_id, ")"))
+                      "(row", current_row, ", ID:", image_row$google_image_id, ")"))
 
     # Process the image
     result <- process_single_image(image_row)
@@ -223,7 +283,7 @@ main <- function() {
       successful_count <- successful_count + 1
     } else {
       failed_count <- failed_count + 1
-      failed_ids <- c(failed_ids, result$resolved_id)
+      failed_ids <- c(failed_ids, result$google_image_id)
     }
 
     # Optional: Add a small delay between images to be nice to APIs
@@ -273,5 +333,5 @@ if (!interactive()) {
   cat("  Start row:", BATCH_START_ROW, "\n")
   cat("  Batch size:", BATCH_SIZE, "\n")
   cat("  Will process rows", BATCH_START_ROW, "to",
-      min(BATCH_START_ROW + BATCH_SIZE - 1, 1460), "\n")
+      min(BATCH_START_ROW + BATCH_SIZE - 1, 174), "\n")
 }
