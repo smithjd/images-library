@@ -18,7 +18,7 @@ library(ollamar)
 
 # Batch configuration
 BATCH_START_ROW <- 1      # Starting row number (1-based indexing)
-BATCH_SIZE <- 2          # Number of images to process in this batch
+BATCH_SIZE <- 50         # Number of images to process in this batch
 LOG_FILE <- "image_processing_log.txt"
 ERROR_LOG <- "image_processing_errors.txt"
 
@@ -45,10 +45,10 @@ log_message <- function(message, log_file = LOG_FILE) {
 }
 
 # Error logging function
-log_error <- function(error_msg, google_image_id = NULL, error_file = ERROR_LOG) {
+log_error <- function(error_msg, real_image_file_name = NULL, error_file = ERROR_LOG) {
   timestamp <- format(Sys.time(), "%Y-%m-%d %H:%M:%S")
-  if (!is.null(google_image_id)) {
-    error_entry <- paste0("[", timestamp, "] ERROR - Image ID ", google_image_id, ": ", error_msg)
+  if (!is.null(real_image_file_name)) {
+    error_entry <- paste0("[", timestamp, "] ERROR - Image ID ", real_image_file_name, ": ", error_msg)
   } else {
     error_entry <- paste0("[", timestamp, "] ERROR: ", error_msg)
   }
