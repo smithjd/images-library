@@ -1,0 +1,2 @@
+[2025-07-26 10:03:11] ERROR - Image ID https://drive.google.com/file/d/19oaHM3aaA49F2oAFYewQ9lfge1aSJp5W/view?usp=drive_link: Failed to process image: HTTP 524.
+[2025-07-26 10:05:47] ERROR - Image ID https://drive.google.com/file/d/1q4NQrb7i_SJucJILvlpkAwnh9VA-0BlJ/view?usp=drive_link: Failed to process image: HTTP 524.

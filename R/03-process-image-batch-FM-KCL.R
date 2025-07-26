@@ -11,14 +11,15 @@ library(httr2)
 library(janitor)
 library(base64enc)
 library(ollamar)
+library(beepr)
 
 # =============================================================================
 # CONFIGURATION SECTION
 # =============================================================================
 
 # Batch configuration
-BATCH_START_ROW <- 1      # Starting row number (1-based indexing)
-BATCH_SIZE <- 50         # Number of images to process in this batch
+BATCH_START_ROW <- 165      # Starting row number (1-based indexing)
+BATCH_SIZE <- 20           # Number of images to process in this batch
 LOG_FILE <- "image_processing_log.txt"
 ERROR_LOG <- "image_processing_errors.txt"
 
@@ -309,6 +310,8 @@ main <- function() {
 
   log_message(success_message)
 
+  beep(3)
+
   # Return summary for potential programmatic use
   return(list(
     batch_start = BATCH_START_ROW,
@@ -327,6 +330,7 @@ main <- function() {
 if (!interactive()) {
   # Only run automatically if script is being executed (not sourced)
   main()
+  beep(5)
 } else {
   cat("Script loaded. Run main() to execute batch processing.\n")
   cat("Current configuration:\n")

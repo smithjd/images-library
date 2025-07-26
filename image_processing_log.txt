@@ -246,3 +246,912 @@
 [2025-07-25 09:47:57] Starting processing for image ID: https://drive.google.com/file/d/1Lcbwq31QmJBXlGJisnq1GjGzTdaGTPmx/view?usp=sharing
 [2025-07-25 09:47:57] Downloading image ID https://drive.google.com/file/d/1Lcbwq31QmJBXlGJisnq1GjGzTdaGTPmx/view?usp=sharing from Google Drive
 [2025-07-25 09:48:00] Getting description for image ID https://drive.google.com/file/d/1Lcbwq31QmJBXlGJisnq1GjGzTdaGTPmx/view?usp=sharing from Ollama
+[2025-07-25 10:24:38] Uploading image ID https://drive.google.com/file/d/1Lcbwq31QmJBXlGJisnq1GjGzTdaGTPmx/view?usp=sharing to WordPress
+[2025-07-25 10:24:51] Successfully processed: karmê-chöling-main-shrine-room-post-meditation-hall-pmh-gong-and-shambhala-banner-and-door.jpg
+[2025-07-25 10:24:52] Processing image 42 of 50 (row 42 , ID:  )
+[2025-07-25 10:24:52] Starting processing for image ID: https://drive.google.com/file/d/13XESWm9We6DAPMXxons_T8noZy6nqTFH/view?usp=sharing
+[2025-07-25 10:24:52] Downloading image ID https://drive.google.com/file/d/13XESWm9We6DAPMXxons_T8noZy6nqTFH/view?usp=sharing from Google Drive
+[2025-07-25 10:24:55] Getting description for image ID https://drive.google.com/file/d/13XESWm9We6DAPMXxons_T8noZy6nqTFH/view?usp=sharing from Ollama
+[2025-07-25 10:25:43] Uploading image ID https://drive.google.com/file/d/13XESWm9We6DAPMXxons_T8noZy6nqTFH/view?usp=sharing to WordPress
+[2025-07-25 10:26:00] Successfully processed: karmê-chöling-main-shrine-room-post-meditation-hall-pmh-gong-and-shambhala-banner-and-carpet.jpg
+[2025-07-25 10:26:01] Processing image 43 of 50 (row 43 , ID:  )
+[2025-07-25 10:26:01] Starting processing for image ID: https://drive.google.com/file/d/1fjfc08ke3-ABy1Lv0mWJ6ImyUi_4X7DU/view?usp=sharing
+[2025-07-25 10:26:01] Downloading image ID https://drive.google.com/file/d/1fjfc08ke3-ABy1Lv0mWJ6ImyUi_4X7DU/view?usp=sharing from Google Drive
+[2025-07-25 10:26:04] Getting description for image ID https://drive.google.com/file/d/1fjfc08ke3-ABy1Lv0mWJ6ImyUi_4X7DU/view?usp=sharing from Ollama
+[2025-07-25 15:07:58] === Starting new batch processing session ===
+[2025-07-25 15:07:58] Batch configuration: Start row = 43 , Batch size = 5
+[2025-07-25 15:07:58] Loaded image data with 174 total images
+[2025-07-25 15:07:58] Processing rows 43 to 47 ( 5 images)
+[2025-07-25 15:07:58] Processing image 1 of 5 (row 43 , ID:  )
+[2025-07-25 15:07:58] Starting processing for image ID: https://drive.google.com/file/d/1fjfc08ke3-ABy1Lv0mWJ6ImyUi_4X7DU/view?usp=sharing
+[2025-07-25 15:07:58] Downloading image ID https://drive.google.com/file/d/1fjfc08ke3-ABy1Lv0mWJ6ImyUi_4X7DU/view?usp=sharing from Google Drive
+[2025-07-25 15:08:02] Getting description for image ID https://drive.google.com/file/d/1fjfc08ke3-ABy1Lv0mWJ6ImyUi_4X7DU/view?usp=sharing from Ollama
+[2025-07-25 15:09:05] Uploading image ID https://drive.google.com/file/d/1fjfc08ke3-ABy1Lv0mWJ6ImyUi_4X7DU/view?usp=sharing to WordPress
+[2025-07-25 15:09:15] Successfully processed: karmê-chöling-main-shrine-room-post-meditation-hall-pmh-gong-and-shambhala-banner-and-door-with-gold-handles.jpg
+[2025-07-25 15:09:16] Processing image 2 of 5 (row 44 , ID:  )
+[2025-07-25 15:09:16] Starting processing for image ID: https://drive.google.com/file/d/1VmaRgqHQOfheAl6PTFscQ-6NA-doT9M_/view?usp=sharing
+[2025-07-25 15:09:16] Downloading image ID https://drive.google.com/file/d/1VmaRgqHQOfheAl6PTFscQ-6NA-doT9M_/view?usp=sharing from Google Drive
+[2025-07-25 15:09:19] Getting description for image ID https://drive.google.com/file/d/1VmaRgqHQOfheAl6PTFscQ-6NA-doT9M_/view?usp=sharing from Ollama
+[2025-07-25 15:10:09] Uploading image ID https://drive.google.com/file/d/1VmaRgqHQOfheAl6PTFscQ-6NA-doT9M_/view?usp=sharing to WordPress
+[2025-07-25 15:10:17] Successfully processed: karmê-chöling-main-shrine-room-post-meditation-hall-pmh-gong-and-shambhala-banner-closeup.jpg
+[2025-07-25 15:10:18] Processing image 3 of 5 (row 45 , ID:  )
+[2025-07-25 15:10:18] Starting processing for image ID: https://drive.google.com/file/d/1BRfzHaijF1VxirmLKSZwDM2h3g37NoeL/view?usp=sharing
+[2025-07-25 15:10:18] Downloading image ID https://drive.google.com/file/d/1BRfzHaijF1VxirmLKSZwDM2h3g37NoeL/view?usp=sharing from Google Drive
+[2025-07-25 15:10:21] Getting description for image ID https://drive.google.com/file/d/1BRfzHaijF1VxirmLKSZwDM2h3g37NoeL/view?usp=sharing from Ollama
+[2025-07-25 15:11:11] Uploading image ID https://drive.google.com/file/d/1BRfzHaijF1VxirmLKSZwDM2h3g37NoeL/view?usp=sharing to WordPress
+[2025-07-25 15:11:17] Successfully processed: karmê-chöling-main-shrine-room-post-meditation-hall-pmh-gong-and-shambhala-banner-backlit.jpg
+[2025-07-25 15:11:18] Processing image 4 of 5 (row 46 , ID:  )
+[2025-07-25 15:11:18] Starting processing for image ID: https://drive.google.com/file/d/1FW3CKFcDQsV0VZGeQ5kCOj8s2p9difAz/view?usp=sharing
+[2025-07-25 15:11:18] Downloading image ID https://drive.google.com/file/d/1FW3CKFcDQsV0VZGeQ5kCOj8s2p9difAz/view?usp=sharing from Google Drive
+[2025-07-25 15:11:21] Getting description for image ID https://drive.google.com/file/d/1FW3CKFcDQsV0VZGeQ5kCOj8s2p9difAz/view?usp=sharing from Ollama
+[2025-07-25 15:12:18] Uploading image ID https://drive.google.com/file/d/1FW3CKFcDQsV0VZGeQ5kCOj8s2p9difAz/view?usp=sharing to WordPress
+[2025-07-25 15:12:25] Successfully processed: karmê-chöling-main-shrine-room-post-meditation-hall-pmh-shambhala-banner-backlit.jpg
+[2025-07-25 15:12:26] Processing image 5 of 5 (row 47 , ID:  )
+[2025-07-25 15:12:26] Starting processing for image ID: https://drive.google.com/file/d/1e_eRaWWbdUs9nqzX5RaPFJKgUoBCDkvt/view?usp=sharing
+[2025-07-25 15:12:26] Downloading image ID https://drive.google.com/file/d/1e_eRaWWbdUs9nqzX5RaPFJKgUoBCDkvt/view?usp=sharing from Google Drive
+[2025-07-25 15:12:30] Getting description for image ID https://drive.google.com/file/d/1e_eRaWWbdUs9nqzX5RaPFJKgUoBCDkvt/view?usp=sharing from Ollama
+[2025-07-25 15:13:26] Uploading image ID https://drive.google.com/file/d/1e_eRaWWbdUs9nqzX5RaPFJKgUoBCDkvt/view?usp=sharing to WordPress
+[2025-07-25 15:13:33] Successfully processed: karmê-chöling-living-room-stone-buddha.jpg
+[2025-07-25 15:13:34] === Batch processing completed ===
+[2025-07-25 15:13:34] Successfully processed: 5 images
+[2025-07-25 15:13:34] Failed to process: 0 images
+[2025-07-25 15:13:34] Rows 43 to 47 have been processed. Success: 5 | Failed: 0
+[2025-07-25 15:37:40] === Starting new batch processing session ===
+[2025-07-25 15:37:40] Batch configuration: Start row = 48 , Batch size = 5
+[2025-07-25 15:37:40] Loaded image data with 174 total images
+[2025-07-25 15:37:40] Processing rows 48 to 52 ( 5 images)
+[2025-07-25 15:37:40] Processing image 1 of 5 (row 48 , ID:  )
+[2025-07-25 15:37:40] Starting processing for image ID: https://drive.google.com/file/d/1HYjPdpg_iAMLwLr6VNAa_nfnLytWHAwG/view?usp=sharing
+[2025-07-25 15:37:40] Downloading image ID https://drive.google.com/file/d/1HYjPdpg_iAMLwLr6VNAa_nfnLytWHAwG/view?usp=sharing from Google Drive
+[2025-07-25 15:37:44] Getting description for image ID https://drive.google.com/file/d/1HYjPdpg_iAMLwLr6VNAa_nfnLytWHAwG/view?usp=sharing from Ollama
+[2025-07-25 15:38:49] Uploading image ID https://drive.google.com/file/d/1HYjPdpg_iAMLwLr6VNAa_nfnLytWHAwG/view?usp=sharing to WordPress
+[2025-07-25 15:38:57] Successfully processed: karmê-chöling-living-room-gold-gong-circular.jpg
+[2025-07-25 15:38:58] Processing image 2 of 5 (row 49 , ID:  )
+[2025-07-25 15:38:58] Starting processing for image ID: https://drive.google.com/file/d/1Qitne9ChJWk-LmZvAt2x01ZVQfbLALSi/view?usp=sharing
+[2025-07-25 15:38:58] Downloading image ID https://drive.google.com/file/d/1Qitne9ChJWk-LmZvAt2x01ZVQfbLALSi/view?usp=sharing from Google Drive
+[2025-07-25 15:39:02] Getting description for image ID https://drive.google.com/file/d/1Qitne9ChJWk-LmZvAt2x01ZVQfbLALSi/view?usp=sharing from Ollama
+[2025-07-25 15:39:49] Uploading image ID https://drive.google.com/file/d/1Qitne9ChJWk-LmZvAt2x01ZVQfbLALSi/view?usp=sharing to WordPress
+[2025-07-25 15:39:55] Successfully processed: karmê-chöling-living-room-gold-gong-circular-with-couch.jpg
+[2025-07-25 15:39:56] Processing image 3 of 5 (row 50 , ID:  )
+[2025-07-25 15:39:56] Starting processing for image ID: https://drive.google.com/file/d/19VzcS13ECYMJoakwffbuij-tDhkN0jGq/view?usp=sharing
+[2025-07-25 15:39:56] Downloading image ID https://drive.google.com/file/d/19VzcS13ECYMJoakwffbuij-tDhkN0jGq/view?usp=sharing from Google Drive
+[2025-07-25 15:40:00] Getting description for image ID https://drive.google.com/file/d/19VzcS13ECYMJoakwffbuij-tDhkN0jGq/view?usp=sharing from Ollama
+[2025-07-25 15:40:53] Uploading image ID https://drive.google.com/file/d/19VzcS13ECYMJoakwffbuij-tDhkN0jGq/view?usp=sharing to WordPress
+[2025-07-25 15:41:00] Successfully processed: karmê-chöling-living-room-gold-gong-circular-center-view.jpg
+[2025-07-25 15:41:01] Processing image 4 of 5 (row 51 , ID:  )
+[2025-07-25 15:41:01] Starting processing for image ID: https://drive.google.com/file/d/17dOPlBodJjFV1iw-5d3UfjSgtn3YCuAl/view?usp=sharing
+[2025-07-25 15:41:01] Downloading image ID https://drive.google.com/file/d/17dOPlBodJjFV1iw-5d3UfjSgtn3YCuAl/view?usp=sharing from Google Drive
+[2025-07-25 15:41:04] Getting description for image ID https://drive.google.com/file/d/17dOPlBodJjFV1iw-5d3UfjSgtn3YCuAl/view?usp=sharing from Ollama
+[2025-07-25 15:41:52] Uploading image ID https://drive.google.com/file/d/17dOPlBodJjFV1iw-5d3UfjSgtn3YCuAl/view?usp=sharing to WordPress
+[2025-07-25 15:41:58] Successfully processed: karmê-chöling-living-room-gold-gong-circular-center-closeup.jpg
+[2025-07-25 15:41:59] Processing image 5 of 5 (row 52 , ID:  )
+[2025-07-25 15:41:59] Starting processing for image ID: https://drive.google.com/file/d/1Yv-q7CxHHysaATQn-G1UQ8nHM8eBmLZR/view?usp=sharing
+[2025-07-25 15:41:59] Downloading image ID https://drive.google.com/file/d/1Yv-q7CxHHysaATQn-G1UQ8nHM8eBmLZR/view?usp=sharing from Google Drive
+[2025-07-25 15:42:02] Getting description for image ID https://drive.google.com/file/d/1Yv-q7CxHHysaATQn-G1UQ8nHM8eBmLZR/view?usp=sharing from Ollama
+[2025-07-25 15:42:53] Uploading image ID https://drive.google.com/file/d/1Yv-q7CxHHysaATQn-G1UQ8nHM8eBmLZR/view?usp=sharing to WordPress
+[2025-07-25 15:43:00] Successfully processed: karmê-chöling-living-room-gong-with-four-dharmas-of-gampopa-and-shambhala-chants-and-mala.jpg
+[2025-07-25 15:43:01] === Batch processing completed ===
+[2025-07-25 15:43:01] Successfully processed: 5 images
+[2025-07-25 15:43:01] Failed to process: 0 images
+[2025-07-25 15:43:01] Rows 48 to 52 have been processed. Success: 5 | Failed: 0
+[2025-07-25 15:43:15] === Starting new batch processing session ===
+[2025-07-25 15:43:15] Batch configuration: Start row = 48 , Batch size = 5
+[2025-07-25 15:43:15] Loaded image data with 174 total images
+[2025-07-25 15:43:15] Processing rows 48 to 52 ( 5 images)
+[2025-07-25 15:43:15] Processing image 1 of 5 (row 48 , ID:  )
+[2025-07-25 15:43:15] Starting processing for image ID: https://drive.google.com/file/d/1HYjPdpg_iAMLwLr6VNAa_nfnLytWHAwG/view?usp=sharing
+[2025-07-25 15:43:15] Downloading image ID https://drive.google.com/file/d/1HYjPdpg_iAMLwLr6VNAa_nfnLytWHAwG/view?usp=sharing from Google Drive
+[2025-07-25 15:43:17] Getting description for image ID https://drive.google.com/file/d/1HYjPdpg_iAMLwLr6VNAa_nfnLytWHAwG/view?usp=sharing from Ollama
+[2025-07-25 15:47:58] === Starting new batch processing session ===
+[2025-07-25 15:47:58] Batch configuration: Start row = 53 , Batch size = 10
+[2025-07-25 15:47:58] Loaded image data with 174 total images
+[2025-07-25 15:47:58] Processing rows 53 to 62 ( 10 images)
+[2025-07-25 15:47:58] Processing image 1 of 10 (row 53 , ID:  )
+[2025-07-25 15:47:58] Starting processing for image ID: https://drive.google.com/file/d/1Nuhpk9W0Dcyjrd281w5cTro4t6Lk6Xyn/view?usp=sharing
+[2025-07-25 15:47:58] Downloading image ID https://drive.google.com/file/d/1Nuhpk9W0Dcyjrd281w5cTro4t6Lk6Xyn/view?usp=sharing from Google Drive
+[2025-07-25 15:48:01] Getting description for image ID https://drive.google.com/file/d/1Nuhpk9W0Dcyjrd281w5cTro4t6Lk6Xyn/view?usp=sharing from Ollama
+[2025-07-25 15:49:01] Uploading image ID https://drive.google.com/file/d/1Nuhpk9W0Dcyjrd281w5cTro4t6Lk6Xyn/view?usp=sharing to WordPress
+[2025-07-25 15:49:09] Successfully processed: karmê-chöling-living-room-gong-with-four-dharmas-of-gampopa-and-mala.jpg
+[2025-07-25 15:49:10] Processing image 2 of 10 (row 54 , ID:  )
+[2025-07-25 15:49:10] Starting processing for image ID: https://drive.google.com/file/d/1BYbOmmNePqfFiGPzzHPXW1KX35dbeIcH/view?usp=sharing
+[2025-07-25 15:49:10] Downloading image ID https://drive.google.com/file/d/1BYbOmmNePqfFiGPzzHPXW1KX35dbeIcH/view?usp=sharing from Google Drive
+[2025-07-25 15:49:12] Getting description for image ID https://drive.google.com/file/d/1BYbOmmNePqfFiGPzzHPXW1KX35dbeIcH/view?usp=sharing from Ollama
+[2025-07-25 15:50:09] Uploading image ID https://drive.google.com/file/d/1BYbOmmNePqfFiGPzzHPXW1KX35dbeIcH/view?usp=sharing to WordPress
+[2025-07-25 15:50:17] Successfully processed: karmê-chöling-living-room-gong-with-shambhala-chants.jpg
+[2025-07-25 15:50:18] Processing image 3 of 10 (row 55 , ID:  )
+[2025-07-25 15:50:18] Starting processing for image ID: https://drive.google.com/file/d/1yZyRRByS4zPQPr9njzEZHC4I8sKnEg6Y/view?usp=sharing
+[2025-07-25 15:50:18] Downloading image ID https://drive.google.com/file/d/1yZyRRByS4zPQPr9njzEZHC4I8sKnEg6Y/view?usp=sharing from Google Drive
+[2025-07-25 15:50:20] Getting description for image ID https://drive.google.com/file/d/1yZyRRByS4zPQPr9njzEZHC4I8sKnEg6Y/view?usp=sharing from Ollama
+[2025-07-25 15:51:15] Uploading image ID https://drive.google.com/file/d/1yZyRRByS4zPQPr9njzEZHC4I8sKnEg6Y/view?usp=sharing to WordPress
+[2025-07-25 15:51:21] Successfully processed: karmê-chöling-living-room-gong-side-view.jpg
+[2025-07-25 15:51:22] Processing image 4 of 10 (row 56 , ID:  )
+[2025-07-25 15:51:22] Starting processing for image ID: https://drive.google.com/file/d/1bbOUhXskzHLyZZtc4DI9vCu5X0xV3Vby/view?usp=sharing
+[2025-07-25 15:51:22] Downloading image ID https://drive.google.com/file/d/1bbOUhXskzHLyZZtc4DI9vCu5X0xV3Vby/view?usp=sharing from Google Drive
+[2025-07-25 15:51:26] Getting description for image ID https://drive.google.com/file/d/1bbOUhXskzHLyZZtc4DI9vCu5X0xV3Vby/view?usp=sharing from Ollama
+[2025-07-25 15:52:20] Uploading image ID https://drive.google.com/file/d/1bbOUhXskzHLyZZtc4DI9vCu5X0xV3Vby/view?usp=sharing to WordPress
+[2025-07-25 15:52:26] Successfully processed: karmê-chöling-shambhala-banner.jpg
+[2025-07-25 15:52:27] Processing image 5 of 10 (row 57 , ID:  )
+[2025-07-25 15:52:27] Starting processing for image ID: https://drive.google.com/file/d/1RYuvZEKX4hqHQhPKLDrT8RMbnn7AmW3g/view?usp=sharing
+[2025-07-25 15:52:27] Downloading image ID https://drive.google.com/file/d/1RYuvZEKX4hqHQhPKLDrT8RMbnn7AmW3g/view?usp=sharing from Google Drive
+[2025-07-25 15:52:29] Getting description for image ID https://drive.google.com/file/d/1RYuvZEKX4hqHQhPKLDrT8RMbnn7AmW3g/view?usp=sharing from Ollama
+[2025-07-25 15:53:17] Uploading image ID https://drive.google.com/file/d/1RYuvZEKX4hqHQhPKLDrT8RMbnn7AmW3g/view?usp=sharing to WordPress
+[2025-07-25 15:53:23] Successfully processed: karmê-chöling-shambhala-banner-closeup.jpg
+[2025-07-25 15:53:24] Processing image 6 of 10 (row 58 , ID:  )
+[2025-07-25 15:53:24] Starting processing for image ID: https://drive.google.com/file/d/1RZAMh_4in4NP4dbNAgkWVuhc_nMdnx0_/view?usp=sharing
+[2025-07-25 15:53:24] Downloading image ID https://drive.google.com/file/d/1RZAMh_4in4NP4dbNAgkWVuhc_nMdnx0_/view?usp=sharing from Google Drive
+[2025-07-25 15:53:26] Getting description for image ID https://drive.google.com/file/d/1RZAMh_4in4NP4dbNAgkWVuhc_nMdnx0_/view?usp=sharing from Ollama
+[2025-07-25 15:54:17] Uploading image ID https://drive.google.com/file/d/1RZAMh_4in4NP4dbNAgkWVuhc_nMdnx0_/view?usp=sharing to WordPress
+[2025-07-25 15:54:23] Successfully processed: karmê-chöling-shiwa-ökar-painting-framed.jpg
+[2025-07-25 15:54:24] Processing image 7 of 10 (row 59 , ID:  )
+[2025-07-25 15:54:24] Starting processing for image ID: https://drive.google.com/file/d/1klx97CZAd0hL4lkum1kpj4vZksIhmNK_/view?usp=sharing
+[2025-07-25 15:54:24] Downloading image ID https://drive.google.com/file/d/1klx97CZAd0hL4lkum1kpj4vZksIhmNK_/view?usp=sharing from Google Drive
+[2025-07-25 15:54:27] Getting description for image ID https://drive.google.com/file/d/1klx97CZAd0hL4lkum1kpj4vZksIhmNK_/view?usp=sharing from Ollama
+[2025-07-25 15:55:17] Uploading image ID https://drive.google.com/file/d/1klx97CZAd0hL4lkum1kpj4vZksIhmNK_/view?usp=sharing to WordPress
+[2025-07-25 15:55:23] Successfully processed: karmê-chöling-primordial-rigden-thangka-framed.jpg
+[2025-07-25 15:55:24] Processing image 8 of 10 (row 60 , ID:  )
+[2025-07-25 15:55:24] Starting processing for image ID: https://drive.google.com/file/d/1h4d3l2i4gp2hwcSw4_clhwlJXZrRNZ-1/view?usp=sharing
+[2025-07-25 15:55:24] Downloading image ID https://drive.google.com/file/d/1h4d3l2i4gp2hwcSw4_clhwlJXZrRNZ-1/view?usp=sharing from Google Drive
+[2025-07-25 15:55:27] Getting description for image ID https://drive.google.com/file/d/1h4d3l2i4gp2hwcSw4_clhwlJXZrRNZ-1/view?usp=sharing from Ollama
+[2025-07-25 15:56:23] Uploading image ID https://drive.google.com/file/d/1h4d3l2i4gp2hwcSw4_clhwlJXZrRNZ-1/view?usp=sharing to WordPress
+[2025-07-25 15:56:29] Successfully processed: karmê-chöling-primordial-rigden-thangka-framed-closeup.jpg
+[2025-07-25 15:56:30] Processing image 9 of 10 (row 61 , ID:  )
+[2025-07-25 15:56:30] Starting processing for image ID: https://drive.google.com/file/d/1FAvUJtjptuM-knz2z0TCcIm_gQ0D8Rfx/view?usp=sharing
+[2025-07-25 15:56:30] Downloading image ID https://drive.google.com/file/d/1FAvUJtjptuM-knz2z0TCcIm_gQ0D8Rfx/view?usp=sharing from Google Drive
+[2025-07-25 15:56:34] Getting description for image ID https://drive.google.com/file/d/1FAvUJtjptuM-knz2z0TCcIm_gQ0D8Rfx/view?usp=sharing from Ollama
+[2025-07-25 15:57:22] Uploading image ID https://drive.google.com/file/d/1FAvUJtjptuM-knz2z0TCcIm_gQ0D8Rfx/view?usp=sharing to WordPress
+[2025-07-25 15:57:28] Successfully processed: karmê-chöling-large-floor-gong-with-blue-zafu-and-zabuton.jpg
+[2025-07-25 15:57:29] Processing image 10 of 10 (row 62 , ID:  )
+[2025-07-25 15:57:29] Starting processing for image ID: https://drive.google.com/file/d/1M0sQZXtFDaUtGLdyZBnLBuHoVTvKnY5_/view?usp=sharing
+[2025-07-25 15:57:29] Downloading image ID https://drive.google.com/file/d/1M0sQZXtFDaUtGLdyZBnLBuHoVTvKnY5_/view?usp=sharing from Google Drive
+[2025-07-25 15:57:32] Getting description for image ID https://drive.google.com/file/d/1M0sQZXtFDaUtGLdyZBnLBuHoVTvKnY5_/view?usp=sharing from Ollama
+[2025-07-25 15:58:21] Uploading image ID https://drive.google.com/file/d/1M0sQZXtFDaUtGLdyZBnLBuHoVTvKnY5_/view?usp=sharing to WordPress
+[2025-07-25 15:58:27] Successfully processed: karmê-chöling-large-floor-gong.jpg
+[2025-07-25 15:58:28] === Batch processing completed ===
+[2025-07-25 15:58:28] Successfully processed: 10 images
+[2025-07-25 15:58:28] Failed to process: 0 images
+[2025-07-25 15:58:28] Rows 53 to 62 have been processed. Success: 10 | Failed: 0
+[2025-07-25 15:59:19] === Starting new batch processing session ===
+[2025-07-25 15:59:19] Batch configuration: Start row = 63 , Batch size = 10
+[2025-07-25 15:59:19] Loaded image data with 174 total images
+[2025-07-25 15:59:19] Processing rows 63 to 72 ( 10 images)
+[2025-07-25 15:59:19] Processing image 1 of 10 (row 63 , ID:  )
+[2025-07-25 15:59:19] Starting processing for image ID: https://drive.google.com/file/d/1m3zI_0LHHnIxKJo0oZcA4VmWSQGHJZWN/view?usp=sharing
+[2025-07-25 15:59:19] Downloading image ID https://drive.google.com/file/d/1m3zI_0LHHnIxKJo0oZcA4VmWSQGHJZWN/view?usp=sharing from Google Drive
+[2025-07-25 15:59:24] Getting description for image ID https://drive.google.com/file/d/1m3zI_0LHHnIxKJo0oZcA4VmWSQGHJZWN/view?usp=sharing from Ollama
+[2025-07-25 15:59:58] === Starting new batch processing session ===
+[2025-07-25 15:59:58] Batch configuration: Start row = 63 , Batch size = 10
+[2025-07-25 15:59:58] Loaded image data with 174 total images
+[2025-07-25 15:59:58] Processing rows 63 to 72 ( 10 images)
+[2025-07-25 15:59:58] Processing image 1 of 10 (row 63 , ID:  )
+[2025-07-25 15:59:58] Starting processing for image ID: https://drive.google.com/file/d/1m3zI_0LHHnIxKJo0oZcA4VmWSQGHJZWN/view?usp=sharing
+[2025-07-25 15:59:58] Downloading image ID https://drive.google.com/file/d/1m3zI_0LHHnIxKJo0oZcA4VmWSQGHJZWN/view?usp=sharing from Google Drive
+[2025-07-25 16:00:00] Getting description for image ID https://drive.google.com/file/d/1m3zI_0LHHnIxKJo0oZcA4VmWSQGHJZWN/view?usp=sharing from Ollama
+[2025-07-25 16:00:20] Uploading image ID https://drive.google.com/file/d/1m3zI_0LHHnIxKJo0oZcA4VmWSQGHJZWN/view?usp=sharing to WordPress
+[2025-07-25 16:00:28] Successfully processed: karmê-chöling-front-door-with-sun-and-blue-sky-and-purple-flowers.jpg
+[2025-07-25 16:00:29] Processing image 2 of 10 (row 64 , ID:  )
+[2025-07-25 16:00:29] Starting processing for image ID: https://drive.google.com/file/d/1t_55zSjCwyFFo3_1Y3i-d3QXNEKOq4Fq/view?usp=sharing
+[2025-07-25 16:00:29] Downloading image ID https://drive.google.com/file/d/1t_55zSjCwyFFo3_1Y3i-d3QXNEKOq4Fq/view?usp=sharing from Google Drive
+[2025-07-25 16:00:35] Getting description for image ID https://drive.google.com/file/d/1t_55zSjCwyFFo3_1Y3i-d3QXNEKOq4Fq/view?usp=sharing from Ollama
+[2025-07-25 16:01:29] Uploading image ID https://drive.google.com/file/d/1t_55zSjCwyFFo3_1Y3i-d3QXNEKOq4Fq/view?usp=sharing to WordPress
+[2025-07-25 16:01:38] Successfully processed: karmê-chöling-front-door-with-sun-and-blue-sky-and-purple-flowers-and-rocks.jpg
+[2025-07-25 16:01:39] Processing image 3 of 10 (row 65 , ID:  )
+[2025-07-25 16:01:39] Starting processing for image ID: https://drive.google.com/file/d/1nWyJ5bcVl7b9qFc-lUajxAgzRDD6gQfd/view?usp=sharing
+[2025-07-25 16:01:39] Downloading image ID https://drive.google.com/file/d/1nWyJ5bcVl7b9qFc-lUajxAgzRDD6gQfd/view?usp=sharing from Google Drive
+[2025-07-25 16:01:44] Getting description for image ID https://drive.google.com/file/d/1nWyJ5bcVl7b9qFc-lUajxAgzRDD6gQfd/view?usp=sharing from Ollama
+[2025-07-25 16:02:35] Uploading image ID https://drive.google.com/file/d/1nWyJ5bcVl7b9qFc-lUajxAgzRDD6gQfd/view?usp=sharing to WordPress
+[2025-07-25 16:02:46] Successfully processed: karmê-chöling-front-door-with-sun-and-blue-sky-and-purple-flowers-and-rocks-and-tree.jpg
+[2025-07-25 16:02:47] Processing image 4 of 10 (row 66 , ID:  )
+[2025-07-25 16:02:47] Starting processing for image ID: https://drive.google.com/file/d/1-GRuYdRibppzzqwZdDWVyfLjYoE643gG/view?usp=drive_link
+[2025-07-25 16:02:47] Downloading image ID https://drive.google.com/file/d/1-GRuYdRibppzzqwZdDWVyfLjYoE643gG/view?usp=drive_link from Google Drive
+[2025-07-25 16:02:52] Getting description for image ID https://drive.google.com/file/d/1-GRuYdRibppzzqwZdDWVyfLjYoE643gG/view?usp=drive_link from Ollama
+[2025-07-25 16:03:42] Uploading image ID https://drive.google.com/file/d/1-GRuYdRibppzzqwZdDWVyfLjYoE643gG/view?usp=drive_link to WordPress
+[2025-07-25 16:03:51] Successfully processed: karmê-chöling-pond-with-road-and-sky-in-spring.jpg
+[2025-07-25 16:03:52] Processing image 5 of 10 (row 67 , ID:  )
+[2025-07-25 16:03:52] Starting processing for image ID: https://drive.google.com/file/d/1Nttqx-OjhquIQKNZCkRoQvzpvYBQKQ9K/view?usp=sharing
+[2025-07-25 16:03:52] Downloading image ID https://drive.google.com/file/d/1Nttqx-OjhquIQKNZCkRoQvzpvYBQKQ9K/view?usp=sharing from Google Drive
+[2025-07-25 16:03:56] Getting description for image ID https://drive.google.com/file/d/1Nttqx-OjhquIQKNZCkRoQvzpvYBQKQ9K/view?usp=sharing from Ollama
+[2025-07-25 16:04:49] Uploading image ID https://drive.google.com/file/d/1Nttqx-OjhquIQKNZCkRoQvzpvYBQKQ9K/view?usp=sharing to WordPress
+[2025-07-25 16:04:55] Successfully processed: karmê-chöling-pond-with-trees-in-spring.jpg
+[2025-07-25 16:04:56] Processing image 6 of 10 (row 68 , ID:  )
+[2025-07-25 16:04:56] Starting processing for image ID: https://drive.google.com/file/d/1ZSvIB7Me9lT1Sz3BdQfS2UHEXlSh7ooB/view?usp=sharing
+[2025-07-25 16:04:56] Downloading image ID https://drive.google.com/file/d/1ZSvIB7Me9lT1Sz3BdQfS2UHEXlSh7ooB/view?usp=sharing from Google Drive
+[2025-07-25 16:05:02] Getting description for image ID https://drive.google.com/file/d/1ZSvIB7Me9lT1Sz3BdQfS2UHEXlSh7ooB/view?usp=sharing from Ollama
+[2025-07-25 16:05:52] Uploading image ID https://drive.google.com/file/d/1ZSvIB7Me9lT1Sz3BdQfS2UHEXlSh7ooB/view?usp=sharing to WordPress
+[2025-07-25 16:05:59] Successfully processed: karmê-chöling-flags-and-barn-with-sky-in-spring.jpg
+[2025-07-25 16:06:00] Processing image 7 of 10 (row 69 , ID:  )
+[2025-07-25 16:06:00] Starting processing for image ID: https://drive.google.com/file/d/1UE9WPa-0hVkajgObRgURBSapmiEFhd6F/view?usp=drive_link
+[2025-07-25 16:06:00] Downloading image ID https://drive.google.com/file/d/1UE9WPa-0hVkajgObRgURBSapmiEFhd6F/view?usp=drive_link from Google Drive
+[2025-07-25 16:06:03] Getting description for image ID https://drive.google.com/file/d/1UE9WPa-0hVkajgObRgURBSapmiEFhd6F/view?usp=drive_link from Ollama
+[2025-07-25 16:06:51] Uploading image ID https://drive.google.com/file/d/1UE9WPa-0hVkajgObRgURBSapmiEFhd6F/view?usp=drive_link to WordPress
+[2025-07-25 16:07:02] Successfully processed: karmê-chöling-flags-with-sky-in-spring.jpg
+[2025-07-25 16:07:03] Processing image 8 of 10 (row 70 , ID:  )
+[2025-07-25 16:07:03] Starting processing for image ID: https://drive.google.com/file/d/1dMFSMnDtTE4Y7In341S3b4mhnqpZIQMT/view?usp=drive_link
+[2025-07-25 16:07:03] Downloading image ID https://drive.google.com/file/d/1dMFSMnDtTE4Y7In341S3b4mhnqpZIQMT/view?usp=drive_link from Google Drive
+[2025-07-25 16:07:06] Getting description for image ID https://drive.google.com/file/d/1dMFSMnDtTE4Y7In341S3b4mhnqpZIQMT/view?usp=drive_link from Ollama
+[2025-07-25 16:07:55] Uploading image ID https://drive.google.com/file/d/1dMFSMnDtTE4Y7In341S3b4mhnqpZIQMT/view?usp=drive_link to WordPress
+[2025-07-25 16:08:03] Successfully processed: karmê-chöling-flags-with-sky.jpg
+[2025-07-25 16:08:04] Processing image 9 of 10 (row 71 , ID:  )
+[2025-07-25 16:08:04] Starting processing for image ID: https://drive.google.com/file/d/163ETDJtrpNBiZrEAPWDhbfk-tbbQQtJ_/view?usp=drive_link
+[2025-07-25 16:08:04] Downloading image ID https://drive.google.com/file/d/163ETDJtrpNBiZrEAPWDhbfk-tbbQQtJ_/view?usp=drive_link from Google Drive
+[2025-07-25 16:08:09] Getting description for image ID https://drive.google.com/file/d/163ETDJtrpNBiZrEAPWDhbfk-tbbQQtJ_/view?usp=drive_link from Ollama
+[2025-07-25 16:09:00] Uploading image ID https://drive.google.com/file/d/163ETDJtrpNBiZrEAPWDhbfk-tbbQQtJ_/view?usp=drive_link to WordPress
+[2025-07-25 16:09:08] Successfully processed: karmê-chöling-flags-with-sky-and-red-building-and-wheelbarrow.jpg
+[2025-07-25 16:09:09] Processing image 10 of 10 (row 72 , ID:  )
+[2025-07-25 16:09:09] Starting processing for image ID: https://drive.google.com/file/d/1m2jIaTTqwKDeaYMo2_bqaSsYrC43NMJh/view?usp=drive_link
+[2025-07-25 16:09:09] Downloading image ID https://drive.google.com/file/d/1m2jIaTTqwKDeaYMo2_bqaSsYrC43NMJh/view?usp=drive_link from Google Drive
+[2025-07-25 16:09:13] Getting description for image ID https://drive.google.com/file/d/1m2jIaTTqwKDeaYMo2_bqaSsYrC43NMJh/view?usp=drive_link from Ollama
+[2025-07-25 16:10:00] Uploading image ID https://drive.google.com/file/d/1m2jIaTTqwKDeaYMo2_bqaSsYrC43NMJh/view?usp=drive_link to WordPress
+[2025-07-25 16:10:09] Successfully processed: karmê-chöling-flags-with-sky-and-red-building-and-wheelbarrow-and-lawn.jpg
+[2025-07-25 16:10:10] === Batch processing completed ===
+[2025-07-25 16:10:10] Successfully processed: 10 images
+[2025-07-25 16:10:10] Failed to process: 0 images
+[2025-07-25 16:10:10] Rows 63 to 72 have been processed. Success: 10 | Failed: 0
+[2025-07-25 16:10:53] === Starting new batch processing session ===
+[2025-07-25 16:10:53] Batch configuration: Start row = 73 , Batch size = 10
+[2025-07-25 16:10:53] Loaded image data with 174 total images
+[2025-07-25 16:10:53] Processing rows 73 to 82 ( 10 images)
+[2025-07-25 16:10:53] Processing image 1 of 10 (row 73 , ID:  )
+[2025-07-25 16:10:53] Starting processing for image ID: https://drive.google.com/file/d/1rWELd6NFDtS0REbnfFkQAgY6s54cMws9/view?usp=drive_link
+[2025-07-25 16:10:53] Downloading image ID https://drive.google.com/file/d/1rWELd6NFDtS0REbnfFkQAgY6s54cMws9/view?usp=drive_link from Google Drive
+[2025-07-25 16:10:58] Getting description for image ID https://drive.google.com/file/d/1rWELd6NFDtS0REbnfFkQAgY6s54cMws9/view?usp=drive_link from Ollama
+[2025-07-25 16:11:49] Uploading image ID https://drive.google.com/file/d/1rWELd6NFDtS0REbnfFkQAgY6s54cMws9/view?usp=drive_link to WordPress
+[2025-07-25 16:11:56] Successfully processed: karmê-chöling-flags-with-sky-from-below.jpg
+[2025-07-25 16:11:57] Processing image 2 of 10 (row 74 , ID:  )
+[2025-07-25 16:11:57] Starting processing for image ID: https://drive.google.com/file/d/1KJQXGyMOpF1jm4vy_t4ZitZIH1sTTkdd/view?usp=drive_link
+[2025-07-25 16:11:57] Downloading image ID https://drive.google.com/file/d/1KJQXGyMOpF1jm4vy_t4ZitZIH1sTTkdd/view?usp=drive_link from Google Drive
+[2025-07-25 16:12:01] Getting description for image ID https://drive.google.com/file/d/1KJQXGyMOpF1jm4vy_t4ZitZIH1sTTkdd/view?usp=drive_link from Ollama
+[2025-07-25 16:12:53] Uploading image ID https://drive.google.com/file/d/1KJQXGyMOpF1jm4vy_t4ZitZIH1sTTkdd/view?usp=drive_link to WordPress
+[2025-07-25 16:13:00] Successfully processed: karmê-chöling-flags-with-sky-from-below-looking-up.jpg
+[2025-07-25 16:13:01] Processing image 3 of 10 (row 75 , ID:  )
+[2025-07-25 16:13:01] Starting processing for image ID: https://drive.google.com/file/d/1rlOZoQtFZk84wJS3Py_QS9PCvyA4xult/view?usp=drive_link
+[2025-07-25 16:13:01] Downloading image ID https://drive.google.com/file/d/1rlOZoQtFZk84wJS3Py_QS9PCvyA4xult/view?usp=drive_link from Google Drive
+[2025-07-25 16:13:05] Getting description for image ID https://drive.google.com/file/d/1rlOZoQtFZk84wJS3Py_QS9PCvyA4xult/view?usp=drive_link from Ollama
+[2025-07-25 16:13:51] Uploading image ID https://drive.google.com/file/d/1rlOZoQtFZk84wJS3Py_QS9PCvyA4xult/view?usp=drive_link to WordPress
+[2025-07-25 16:13:59] Successfully processed: karmê-chöling-flags-with-blue-sky-from-below-looking-up.jpg
+[2025-07-25 16:14:00] Processing image 4 of 10 (row 76 , ID:  )
+[2025-07-25 16:14:00] Starting processing for image ID: https://drive.google.com/file/d/1cz2_DYfG3QF9wNc0eIibL-Wi7xMQ3O1D/view?usp=drive_link
+[2025-07-25 16:14:00] Downloading image ID https://drive.google.com/file/d/1cz2_DYfG3QF9wNc0eIibL-Wi7xMQ3O1D/view?usp=drive_link from Google Drive
+[2025-07-25 16:14:05] Getting description for image ID https://drive.google.com/file/d/1cz2_DYfG3QF9wNc0eIibL-Wi7xMQ3O1D/view?usp=drive_link from Ollama
+[2025-07-25 16:14:58] Uploading image ID https://drive.google.com/file/d/1cz2_DYfG3QF9wNc0eIibL-Wi7xMQ3O1D/view?usp=drive_link to WordPress
+[2025-07-25 16:15:10] Successfully processed: karmê-chöling-shambhala-lineage-thangka-and-primordial-rigden.jpg
+[2025-07-25 16:15:11] Processing image 5 of 10 (row 77 , ID:  )
+[2025-07-25 16:15:11] Starting processing for image ID: https://drive.google.com/file/d/1hb31vr5CAdBY9hy7wziK4CDpMVhkN-Dn/view?usp=drive_link
+[2025-07-25 16:15:11] Downloading image ID https://drive.google.com/file/d/1hb31vr5CAdBY9hy7wziK4CDpMVhkN-Dn/view?usp=drive_link from Google Drive
+[2025-07-25 16:15:16] Getting description for image ID https://drive.google.com/file/d/1hb31vr5CAdBY9hy7wziK4CDpMVhkN-Dn/view?usp=drive_link from Ollama
+[2025-07-25 16:16:09] Uploading image ID https://drive.google.com/file/d/1hb31vr5CAdBY9hy7wziK4CDpMVhkN-Dn/view?usp=drive_link to WordPress
+[2025-07-25 16:16:18] Successfully processed: karmê-chöling-shambhala-lineage-thangka-and-primordial-rigden-with-wall.jpg
+[2025-07-25 16:16:19] Processing image 6 of 10 (row 78 , ID:  )
+[2025-07-25 16:16:19] Starting processing for image ID: https://drive.google.com/file/d/1tfuL865528qqT8O-fWP2vA8-Iz0Cvb3c/view?usp=drive_link
+[2025-07-25 16:16:19] Downloading image ID https://drive.google.com/file/d/1tfuL865528qqT8O-fWP2vA8-Iz0Cvb3c/view?usp=drive_link from Google Drive
+[2025-07-25 16:16:24] Getting description for image ID https://drive.google.com/file/d/1tfuL865528qqT8O-fWP2vA8-Iz0Cvb3c/view?usp=drive_link from Ollama
+[2025-07-25 16:17:10] Uploading image ID https://drive.google.com/file/d/1tfuL865528qqT8O-fWP2vA8-Iz0Cvb3c/view?usp=drive_link to WordPress
+[2025-07-25 16:17:18] Successfully processed: karmê-chöling-shambhala-lineage-thangka-and-primordial-rigden-with-wall-slightly-crooked.jpg
+[2025-07-25 16:17:19] Processing image 7 of 10 (row 79 , ID:  )
+[2025-07-25 16:17:19] Starting processing for image ID: https://drive.google.com/file/d/1l3_ttEIoU1maO2hOxfhNnZR2OC2hlWl2/view?usp=drive_link
+[2025-07-25 16:17:19] Downloading image ID https://drive.google.com/file/d/1l3_ttEIoU1maO2hOxfhNnZR2OC2hlWl2/view?usp=drive_link from Google Drive
+[2025-07-25 16:17:24] Getting description for image ID https://drive.google.com/file/d/1l3_ttEIoU1maO2hOxfhNnZR2OC2hlWl2/view?usp=drive_link from Ollama
+[2025-07-25 16:18:12] Uploading image ID https://drive.google.com/file/d/1l3_ttEIoU1maO2hOxfhNnZR2OC2hlWl2/view?usp=drive_link to WordPress
+[2025-07-25 16:18:19] Successfully processed: karmê-chöling-main-shrine-room-with-drum-and-blue-meditation-cushions.jpg
+[2025-07-25 16:18:20] Processing image 8 of 10 (row 80 , ID:  )
+[2025-07-25 16:18:20] Starting processing for image ID: https://drive.google.com/file/d/1rOGblPRDM8qkh-g8eyOGWmnql2Y-fjaR/view?usp=drive_link
+[2025-07-25 16:18:20] Downloading image ID https://drive.google.com/file/d/1rOGblPRDM8qkh-g8eyOGWmnql2Y-fjaR/view?usp=drive_link from Google Drive
+[2025-07-25 16:18:23] Getting description for image ID https://drive.google.com/file/d/1rOGblPRDM8qkh-g8eyOGWmnql2Y-fjaR/view?usp=drive_link from Ollama
+[2025-07-25 16:19:09] Uploading image ID https://drive.google.com/file/d/1rOGblPRDM8qkh-g8eyOGWmnql2Y-fjaR/view?usp=drive_link to WordPress
+[2025-07-25 16:19:17] Successfully processed: karmê-chöling-blue-and-yellow-gomden-and-blue-zabuton.jpg
+[2025-07-25 16:19:18] Processing image 9 of 10 (row 81 , ID:  )
+[2025-07-25 16:19:18] Starting processing for image ID: https://drive.google.com/file/d/1bV5J7ddQsdO1yaseo0I9bnuKHiIWuI86/view?usp=drive_link
+[2025-07-25 16:19:18] Downloading image ID https://drive.google.com/file/d/1bV5J7ddQsdO1yaseo0I9bnuKHiIWuI86/view?usp=drive_link from Google Drive
+[2025-07-25 16:19:21] Getting description for image ID https://drive.google.com/file/d/1bV5J7ddQsdO1yaseo0I9bnuKHiIWuI86/view?usp=drive_link from Ollama
+[2025-07-25 16:20:07] Uploading image ID https://drive.google.com/file/d/1bV5J7ddQsdO1yaseo0I9bnuKHiIWuI86/view?usp=drive_link to WordPress
+[2025-07-25 16:20:14] Successfully processed: karmê-chöling-blue-and-yellow-gomden-and-blue-zabuton-from-top-down.jpg
+[2025-07-25 16:20:15] Processing image 10 of 10 (row 82 , ID:  )
+[2025-07-25 16:20:15] Starting processing for image ID: https://drive.google.com/file/d/1B_Q9I6VvgzHc60jDi-j1f5UqX_tNrsDh/view?usp=drive_link
+[2025-07-25 16:20:15] Downloading image ID https://drive.google.com/file/d/1B_Q9I6VvgzHc60jDi-j1f5UqX_tNrsDh/view?usp=drive_link from Google Drive
+[2025-07-25 16:20:17] Getting description for image ID https://drive.google.com/file/d/1B_Q9I6VvgzHc60jDi-j1f5UqX_tNrsDh/view?usp=drive_link from Ollama
+[2025-07-25 16:21:05] Uploading image ID https://drive.google.com/file/d/1B_Q9I6VvgzHc60jDi-j1f5UqX_tNrsDh/view?usp=drive_link to WordPress
+[2025-07-25 16:21:12] Successfully processed: karmê-chöling-main-shrine-room-primordial-rigden-with-brush.jpg
+[2025-07-25 16:21:13] === Batch processing completed ===
+[2025-07-25 16:21:13] Successfully processed: 10 images
+[2025-07-25 16:21:13] Failed to process: 0 images
+[2025-07-25 16:21:13] Rows 73 to 82 have been processed. Success: 10 | Failed: 0
+[2025-07-25 16:22:56] === Starting new batch processing session ===
+[2025-07-25 16:22:56] Batch configuration: Start row = 83 , Batch size = 10
+[2025-07-25 16:22:56] Loaded image data with 174 total images
+[2025-07-25 16:22:56] Processing rows 83 to 92 ( 10 images)
+[2025-07-25 16:22:56] Processing image 1 of 10 (row 83 , ID:  )
+[2025-07-25 16:22:56] Starting processing for image ID: https://drive.google.com/file/d/1QGAuAJ4dVhXwRAxrNUqkwBf1n3kSYIdS/view?usp=drive_link
+[2025-07-25 16:22:56] Downloading image ID https://drive.google.com/file/d/1QGAuAJ4dVhXwRAxrNUqkwBf1n3kSYIdS/view?usp=drive_link from Google Drive
+[2025-07-25 16:22:59] Getting description for image ID https://drive.google.com/file/d/1QGAuAJ4dVhXwRAxrNUqkwBf1n3kSYIdS/view?usp=drive_link from Ollama
+[2025-07-25 16:23:53] Uploading image ID https://drive.google.com/file/d/1QGAuAJ4dVhXwRAxrNUqkwBf1n3kSYIdS/view?usp=drive_link to WordPress
+[2025-07-25 16:24:00] Successfully processed: karmê-chöling-main-shrine-room-red-and-white-brocade.jpg
+[2025-07-25 16:24:01] Processing image 2 of 10 (row 84 , ID:  )
+[2025-07-25 16:24:01] Starting processing for image ID: https://drive.google.com/file/d/1gFdD28RCoEaa6K1efd83vVgE22Hw-Wx9/view?usp=drive_link
+[2025-07-25 16:24:01] Downloading image ID https://drive.google.com/file/d/1gFdD28RCoEaa6K1efd83vVgE22Hw-Wx9/view?usp=drive_link from Google Drive
+[2025-07-25 16:24:03] Getting description for image ID https://drive.google.com/file/d/1gFdD28RCoEaa6K1efd83vVgE22Hw-Wx9/view?usp=drive_link from Ollama
+[2025-07-25 19:58:02] === Starting new batch processing session ===
+[2025-07-25 19:58:02] Batch configuration: Start row = 85 , Batch size = 10
+[2025-07-25 19:58:02] Loaded image data with 174 total images
+[2025-07-25 19:58:02] Processing rows 85 to 94 ( 10 images)
+[2025-07-25 19:58:02] Processing image 1 of 10 (row 85 , ID:  )
+[2025-07-25 19:58:02] Starting processing for image ID: https://drive.google.com/file/d/16DEqEnpmg9gn_DUIUGgLQTvIFyXdAaMF/view?usp=drive_link
+[2025-07-25 19:58:02] Downloading image ID https://drive.google.com/file/d/16DEqEnpmg9gn_DUIUGgLQTvIFyXdAaMF/view?usp=drive_link from Google Drive
+[2025-07-25 19:58:05] Getting description for image ID https://drive.google.com/file/d/16DEqEnpmg9gn_DUIUGgLQTvIFyXdAaMF/view?usp=drive_link from Ollama
+[2025-07-25 19:59:08] Uploading image ID https://drive.google.com/file/d/16DEqEnpmg9gn_DUIUGgLQTvIFyXdAaMF/view?usp=drive_link to WordPress
+[2025-07-25 19:59:15] Successfully processed: karmê-chöling-main-shrine-room-gold-leaf-design-and-ceiling.jpg
+[2025-07-25 19:59:16] Processing image 2 of 10 (row 86 , ID:  )
+[2025-07-25 19:59:16] Starting processing for image ID: https://drive.google.com/file/d/10d7Dxpxvi4rLGZJaQseJ9DRNq5aSRdNx/view?usp=drive_link
+[2025-07-25 19:59:16] Downloading image ID https://drive.google.com/file/d/10d7Dxpxvi4rLGZJaQseJ9DRNq5aSRdNx/view?usp=drive_link from Google Drive
+[2025-07-25 19:59:19] Getting description for image ID https://drive.google.com/file/d/10d7Dxpxvi4rLGZJaQseJ9DRNq5aSRdNx/view?usp=drive_link from Ollama
+[2025-07-25 20:00:07] Uploading image ID https://drive.google.com/file/d/10d7Dxpxvi4rLGZJaQseJ9DRNq5aSRdNx/view?usp=drive_link to WordPress
+[2025-07-25 20:00:14] Successfully processed: karmê-chöling-main-shrine-room-gold-leaf-design-closeup.jpg
+[2025-07-25 20:00:15] Processing image 3 of 10 (row 87 , ID:  )
+[2025-07-25 20:00:15] Starting processing for image ID: https://drive.google.com/file/d/1p2TYH0K5y0AGmZ1sdmDsVheiQ-bH8Ok5/view?usp=drive_link
+[2025-07-25 20:00:15] Downloading image ID https://drive.google.com/file/d/1p2TYH0K5y0AGmZ1sdmDsVheiQ-bH8Ok5/view?usp=drive_link from Google Drive
+[2025-07-25 20:00:17] Getting description for image ID https://drive.google.com/file/d/1p2TYH0K5y0AGmZ1sdmDsVheiQ-bH8Ok5/view?usp=drive_link from Ollama
+[2025-07-25 20:01:02] Uploading image ID https://drive.google.com/file/d/1p2TYH0K5y0AGmZ1sdmDsVheiQ-bH8Ok5/view?usp=drive_link to WordPress
+[2025-07-25 20:01:08] Successfully processed: karmê-chöling-main-shrine-room-gold-sun-and-gold-leaf-design.jpg
+[2025-07-25 20:01:09] Processing image 4 of 10 (row 88 , ID:  )
+[2025-07-25 20:01:09] Starting processing for image ID: https://drive.google.com/file/d/1sOfvW9bv9cEZt4qSub95kYmyu6ZBmZIx/view?usp=drive_link
+[2025-07-25 20:01:09] Downloading image ID https://drive.google.com/file/d/1sOfvW9bv9cEZt4qSub95kYmyu6ZBmZIx/view?usp=drive_link from Google Drive
+[2025-07-25 20:01:11] Getting description for image ID https://drive.google.com/file/d/1sOfvW9bv9cEZt4qSub95kYmyu6ZBmZIx/view?usp=drive_link from Ollama
+[2025-07-25 20:02:00] Uploading image ID https://drive.google.com/file/d/1sOfvW9bv9cEZt4qSub95kYmyu6ZBmZIx/view?usp=drive_link to WordPress
+[2025-07-25 20:02:06] Successfully processed: karmê-chöling-main-shrine-room-gold-sun-closeup.jpg
+[2025-07-25 20:02:07] Processing image 5 of 10 (row 89 , ID:  )
+[2025-07-25 20:02:07] Starting processing for image ID: https://drive.google.com/file/d/18viQWUZTecWTAABXdciAaaxWbaF2DPGn/view?usp=drive_link
+[2025-07-25 20:02:07] Downloading image ID https://drive.google.com/file/d/18viQWUZTecWTAABXdciAaaxWbaF2DPGn/view?usp=drive_link from Google Drive
+[2025-07-25 20:02:09] Getting description for image ID https://drive.google.com/file/d/18viQWUZTecWTAABXdciAaaxWbaF2DPGn/view?usp=drive_link from Ollama
+[2025-07-25 20:02:57] Uploading image ID https://drive.google.com/file/d/18viQWUZTecWTAABXdciAaaxWbaF2DPGn/view?usp=drive_link to WordPress
+[2025-07-25 20:03:03] Successfully processed: karmê-chöling-main-shrine-room-large-gong-closeup.jpg
+[2025-07-25 20:03:04] Processing image 6 of 10 (row 90 , ID:  )
+[2025-07-25 20:03:04] Starting processing for image ID: https://drive.google.com/file/d/1mNE8GMvW33akCCEY72IaMGYubS9SbI4Z/view?usp=drive_link
+[2025-07-25 20:03:04] Downloading image ID https://drive.google.com/file/d/1mNE8GMvW33akCCEY72IaMGYubS9SbI4Z/view?usp=drive_link from Google Drive
+[2025-07-25 20:03:08] Getting description for image ID https://drive.google.com/file/d/1mNE8GMvW33akCCEY72IaMGYubS9SbI4Z/view?usp=drive_link from Ollama
+[2025-07-25 20:03:56] Uploading image ID https://drive.google.com/file/d/1mNE8GMvW33akCCEY72IaMGYubS9SbI4Z/view?usp=drive_link to WordPress
+[2025-07-25 20:04:03] Successfully processed: karmê-chöling-main-shrine-room-large-gong-side-view.jpg
+[2025-07-25 20:04:04] Processing image 7 of 10 (row 91 , ID:  )
+[2025-07-25 20:04:04] Starting processing for image ID: https://drive.google.com/file/d/1HhoH3eoxQlaDoeb38O9M7x6FyDBABonP/view?usp=drive_link
+[2025-07-25 20:04:04] Downloading image ID https://drive.google.com/file/d/1HhoH3eoxQlaDoeb38O9M7x6FyDBABonP/view?usp=drive_link from Google Drive
+[2025-07-25 20:04:06] Getting description for image ID https://drive.google.com/file/d/1HhoH3eoxQlaDoeb38O9M7x6FyDBABonP/view?usp=drive_link from Ollama
+[2025-07-25 20:04:55] Uploading image ID https://drive.google.com/file/d/1HhoH3eoxQlaDoeb38O9M7x6FyDBABonP/view?usp=drive_link to WordPress
+[2025-07-25 20:05:03] Successfully processed: karmê-chöling-main-shrine-room-large-gong-side-view-with-blue-meditation-cushion-and-window.jpg
+[2025-07-25 20:05:04] Processing image 8 of 10 (row 92 , ID:  )
+[2025-07-25 20:05:04] Starting processing for image ID: https://drive.google.com/file/d/1mYBYPO-57tXplTzgkkzZ0wPOydBCYYf-/view?usp=drive_link
+[2025-07-25 20:05:04] Downloading image ID https://drive.google.com/file/d/1mYBYPO-57tXplTzgkkzZ0wPOydBCYYf-/view?usp=drive_link from Google Drive
+[2025-07-25 20:05:07] Getting description for image ID https://drive.google.com/file/d/1mYBYPO-57tXplTzgkkzZ0wPOydBCYYf-/view?usp=drive_link from Ollama
+[2025-07-25 20:05:55] Uploading image ID https://drive.google.com/file/d/1mYBYPO-57tXplTzgkkzZ0wPOydBCYYf-/view?usp=drive_link to WordPress
+[2025-07-25 20:06:02] Successfully processed: karmê-chöling-main-shrine-room-large-gong-side-view-with-blue-meditation-cushion-and-window-and-wall.jpg
+[2025-07-25 20:06:03] Processing image 9 of 10 (row 93 , ID:  )
+[2025-07-25 20:06:03] Starting processing for image ID: https://drive.google.com/file/d/1KkYWkCQsPmLvJCiElnGuX7qTt5E8NFTp/view?usp=drive_link
+[2025-07-25 20:06:03] Downloading image ID https://drive.google.com/file/d/1KkYWkCQsPmLvJCiElnGuX7qTt5E8NFTp/view?usp=drive_link from Google Drive
+[2025-07-25 20:06:06] Getting description for image ID https://drive.google.com/file/d/1KkYWkCQsPmLvJCiElnGuX7qTt5E8NFTp/view?usp=drive_link from Ollama
+[2025-07-25 20:06:51] Uploading image ID https://drive.google.com/file/d/1KkYWkCQsPmLvJCiElnGuX7qTt5E8NFTp/view?usp=drive_link to WordPress
+[2025-07-25 20:07:00] Successfully processed: karmê-chöling-main-shrine-room-red-and-white-brocade-closeup.jpg
+[2025-07-25 20:07:01] Processing image 10 of 10 (row 94 , ID:  )
+[2025-07-25 20:07:01] Starting processing for image ID: https://drive.google.com/file/d/1awHNhcwkcMBc8q3M1dHwGYrKAUxFgosm/view?usp=drive_link
+[2025-07-25 20:07:01] Downloading image ID https://drive.google.com/file/d/1awHNhcwkcMBc8q3M1dHwGYrKAUxFgosm/view?usp=drive_link from Google Drive
+[2025-07-25 20:07:05] Getting description for image ID https://drive.google.com/file/d/1awHNhcwkcMBc8q3M1dHwGYrKAUxFgosm/view?usp=drive_link from Ollama
+[2025-07-25 20:07:59] Uploading image ID https://drive.google.com/file/d/1awHNhcwkcMBc8q3M1dHwGYrKAUxFgosm/view?usp=drive_link to WordPress
+[2025-07-25 20:08:06] Successfully processed: karmê-chöling-main-shrine-room-red-and-white-brocade-closeup-asymmetric.jpg
+[2025-07-25 20:08:07] === Batch processing completed ===
+[2025-07-25 20:08:07] Successfully processed: 10 images
+[2025-07-25 20:08:07] Failed to process: 0 images
+[2025-07-25 20:08:07] Rows 85 to 94 have been processed. Success: 10 | Failed: 0
+[2025-07-25 20:09:48] === Starting new batch processing session ===
+[2025-07-25 20:09:48] Batch configuration: Start row = 95 , Batch size = 10
+[2025-07-25 20:09:48] Loaded image data with 174 total images
+[2025-07-25 20:09:48] Processing rows 95 to 104 ( 10 images)
+[2025-07-25 20:09:48] Processing image 1 of 10 (row 95 , ID:  )
+[2025-07-25 20:09:48] Starting processing for image ID: https://drive.google.com/file/d/15KapHGmDSI-hn2Bl8hcn2Bqs6Ybly-jX/view?usp=drive_link
+[2025-07-25 20:09:48] Downloading image ID https://drive.google.com/file/d/15KapHGmDSI-hn2Bl8hcn2Bqs6Ybly-jX/view?usp=drive_link from Google Drive
+[2025-07-25 20:09:51] Getting description for image ID https://drive.google.com/file/d/15KapHGmDSI-hn2Bl8hcn2Bqs6Ybly-jX/view?usp=drive_link from Ollama
+[2025-07-25 20:10:49] Uploading image ID https://drive.google.com/file/d/15KapHGmDSI-hn2Bl8hcn2Bqs6Ybly-jX/view?usp=drive_link to WordPress
+[2025-07-25 20:10:56] Successfully processed: karmê-chöling-main-shrine-room-shrine-with-offering-bowls-and-stupas-and-brush.jpg
+[2025-07-25 20:10:57] Processing image 2 of 10 (row 96 , ID:  )
+[2025-07-25 20:10:57] Starting processing for image ID: https://drive.google.com/file/d/1EnK-zFhPSLBSL6HyGFYFESAfSvsOppQz/view?usp=drive_link
+[2025-07-25 20:10:57] Downloading image ID https://drive.google.com/file/d/1EnK-zFhPSLBSL6HyGFYFESAfSvsOppQz/view?usp=drive_link from Google Drive
+[2025-07-25 20:11:00] Getting description for image ID https://drive.google.com/file/d/1EnK-zFhPSLBSL6HyGFYFESAfSvsOppQz/view?usp=drive_link from Ollama
+[2025-07-25 20:11:45] Uploading image ID https://drive.google.com/file/d/1EnK-zFhPSLBSL6HyGFYFESAfSvsOppQz/view?usp=drive_link to WordPress
+[2025-07-25 20:11:52] Successfully processed: karmê-chöling-main-shrine-room-umdze-seat-with-gong-and-blue-meditation-cushion-and-window.jpg
+[2025-07-25 20:11:53] Processing image 3 of 10 (row 97 , ID:  )
+[2025-07-25 20:11:53] Starting processing for image ID: https://drive.google.com/file/d/1Naxc_SfxecyTtH92d9WvvpvYH8EQmYr8/view?usp=drive_link
+[2025-07-25 20:11:53] Downloading image ID https://drive.google.com/file/d/1Naxc_SfxecyTtH92d9WvvpvYH8EQmYr8/view?usp=drive_link from Google Drive
+[2025-07-25 20:11:55] Getting description for image ID https://drive.google.com/file/d/1Naxc_SfxecyTtH92d9WvvpvYH8EQmYr8/view?usp=drive_link from Ollama
+[2025-07-25 20:12:44] Uploading image ID https://drive.google.com/file/d/1Naxc_SfxecyTtH92d9WvvpvYH8EQmYr8/view?usp=drive_link to WordPress
+[2025-07-25 20:12:50] Successfully processed: karmê-chöling-main-shrine-room-gold-leaf-in-upper-corner.jpg
+[2025-07-25 20:12:51] Processing image 4 of 10 (row 98 , ID:  )
+[2025-07-25 20:12:51] Starting processing for image ID: https://drive.google.com/file/d/1GnwHbG3KUnFV9VuXXry-dLJ0Uu_fZtdp/view?usp=drive_link
+[2025-07-25 20:12:51] Downloading image ID https://drive.google.com/file/d/1GnwHbG3KUnFV9VuXXry-dLJ0Uu_fZtdp/view?usp=drive_link from Google Drive
+[2025-07-25 20:12:54] Getting description for image ID https://drive.google.com/file/d/1GnwHbG3KUnFV9VuXXry-dLJ0Uu_fZtdp/view?usp=drive_link from Ollama
+[2025-07-25 20:13:43] Uploading image ID https://drive.google.com/file/d/1GnwHbG3KUnFV9VuXXry-dLJ0Uu_fZtdp/view?usp=drive_link to WordPress
+[2025-07-25 20:13:53] Successfully processed: karmê-chöling-main-shrine-room-yeshe-tsögyal-thangka.jpg
+[2025-07-25 20:13:54] Processing image 5 of 10 (row 99 , ID:  )
+[2025-07-25 20:13:54] Starting processing for image ID: https://drive.google.com/file/d/1T-pCGLu5Mcp9idEklr0xLMrmA3i4TZsS/view?usp=drive_link
+[2025-07-25 20:13:54] Downloading image ID https://drive.google.com/file/d/1T-pCGLu5Mcp9idEklr0xLMrmA3i4TZsS/view?usp=drive_link from Google Drive
+[2025-07-25 20:13:56] Getting description for image ID https://drive.google.com/file/d/1T-pCGLu5Mcp9idEklr0xLMrmA3i4TZsS/view?usp=drive_link from Ollama
+[2025-07-25 20:14:49] Uploading image ID https://drive.google.com/file/d/1T-pCGLu5Mcp9idEklr0xLMrmA3i4TZsS/view?usp=drive_link to WordPress
+[2025-07-25 20:14:56] Successfully processed: karmê-chöling-yeshe-tsögyal-thangka-closeup.jpg
+[2025-07-25 20:14:57] Processing image 6 of 10 (row 100 , ID:  )
+[2025-07-25 20:14:57] Starting processing for image ID: https://drive.google.com/file/d/1zO68gWclfhw5Fo2A1gO52pUsFfBNkU5H/view?usp=drive_link
+[2025-07-25 20:14:57] Downloading image ID https://drive.google.com/file/d/1zO68gWclfhw5Fo2A1gO52pUsFfBNkU5H/view?usp=drive_link from Google Drive
+[2025-07-25 20:15:01] Getting description for image ID https://drive.google.com/file/d/1zO68gWclfhw5Fo2A1gO52pUsFfBNkU5H/view?usp=drive_link from Ollama
+[2025-07-25 20:51:21] Uploading image ID https://drive.google.com/file/d/1zO68gWclfhw5Fo2A1gO52pUsFfBNkU5H/view?usp=drive_link to WordPress
+[2025-07-25 20:51:33] Successfully processed: karmê-chöling-yeshe-tsögyal-thangka-closeup-half-view.jpg
+[2025-07-25 20:51:34] Processing image 7 of 10 (row 101 , ID:  )
+[2025-07-25 20:51:34] Starting processing for image ID: https://drive.google.com/file/d/1iI3HBWPLnZaHiztza42KqkO6--L3jz8l/view?usp=drive_link
+[2025-07-25 20:51:34] Downloading image ID https://drive.google.com/file/d/1iI3HBWPLnZaHiztza42KqkO6--L3jz8l/view?usp=drive_link from Google Drive
+[2025-07-25 20:51:37] Getting description for image ID https://drive.google.com/file/d/1iI3HBWPLnZaHiztza42KqkO6--L3jz8l/view?usp=drive_link from Ollama
+[2025-07-25 20:52:23] Uploading image ID https://drive.google.com/file/d/1iI3HBWPLnZaHiztza42KqkO6--L3jz8l/view?usp=drive_link to WordPress
+[2025-07-25 20:52:30] Successfully processed: karmê-chöling-yeshe-tsögyal-thangka-closeup-half-view-wide.jpg
+[2025-07-25 20:52:31] Processing image 8 of 10 (row 102 , ID:  )
+[2025-07-25 20:52:31] Starting processing for image ID: https://drive.google.com/file/d/1t5v1apSKvE9Mt8kOIrc3drrXUHY2HRtI/view?usp=drive_link
+[2025-07-25 20:52:31] Downloading image ID https://drive.google.com/file/d/1t5v1apSKvE9Mt8kOIrc3drrXUHY2HRtI/view?usp=drive_link from Google Drive
+[2025-07-25 20:52:33] Getting description for image ID https://drive.google.com/file/d/1t5v1apSKvE9Mt8kOIrc3drrXUHY2HRtI/view?usp=drive_link from Ollama
+[2025-07-25 20:53:18] Uploading image ID https://drive.google.com/file/d/1t5v1apSKvE9Mt8kOIrc3drrXUHY2HRtI/view?usp=drive_link to WordPress
+[2025-07-25 20:53:25] Successfully processed: karmê-chöling-yeshe-tsögyal-thangka-with-orange-cloth.jpg
+[2025-07-25 20:53:26] Processing image 9 of 10 (row 103 , ID:  )
+[2025-07-25 20:53:26] Starting processing for image ID: https://drive.google.com/file/d/1VLcyJMmDJCFfyhNHWxvRffEK8qa3sUSi/view?usp=drive_link
+[2025-07-25 20:53:26] Downloading image ID https://drive.google.com/file/d/1VLcyJMmDJCFfyhNHWxvRffEK8qa3sUSi/view?usp=drive_link from Google Drive
+[2025-07-25 20:53:28] Getting description for image ID https://drive.google.com/file/d/1VLcyJMmDJCFfyhNHWxvRffEK8qa3sUSi/view?usp=drive_link from Ollama
+[2025-07-25 20:54:12] Uploading image ID https://drive.google.com/file/d/1VLcyJMmDJCFfyhNHWxvRffEK8qa3sUSi/view?usp=drive_link to WordPress
+[2025-07-25 20:54:20] Successfully processed: karmê-chöling-yeshe-tsögyal-thangka-closeup-face-and-hand.jpg
+[2025-07-25 20:54:21] Processing image 10 of 10 (row 104 , ID:  )
+[2025-07-25 20:54:21] Starting processing for image ID: https://drive.google.com/file/d/1t8skdObES8XKQ_R5lG01ep9DaA3uNb3t/view?usp=drive_link
+[2025-07-25 20:54:21] Downloading image ID https://drive.google.com/file/d/1t8skdObES8XKQ_R5lG01ep9DaA3uNb3t/view?usp=drive_link from Google Drive
+[2025-07-25 20:54:23] Getting description for image ID https://drive.google.com/file/d/1t8skdObES8XKQ_R5lG01ep9DaA3uNb3t/view?usp=drive_link from Ollama
+[2025-07-25 20:55:07] Uploading image ID https://drive.google.com/file/d/1t8skdObES8XKQ_R5lG01ep9DaA3uNb3t/view?usp=drive_link to WordPress
+[2025-07-25 20:55:13] Successfully processed: karmê-chöling-yeshe-tsögyal-thangka-closeup-face.jpg
+[2025-07-25 20:55:14] === Batch processing completed ===
+[2025-07-25 20:55:14] Successfully processed: 10 images
+[2025-07-25 20:55:14] Failed to process: 0 images
+[2025-07-25 20:55:14] Rows 95 to 104 have been processed. Success: 10 | Failed: 0
+[2025-07-26 07:59:26] === Starting new batch processing session ===
+[2025-07-26 07:59:26] Batch configuration: Start row = 105 , Batch size = 20
+[2025-07-26 07:59:26] Loaded image data with 174 total images
+[2025-07-26 07:59:26] Processing rows 105 to 124 ( 20 images)
+[2025-07-26 07:59:26] Processing image 1 of 20 (row 105 , ID:  )
+[2025-07-26 07:59:26] Starting processing for image ID: https://drive.google.com/file/d/1r5bysZP7qmnzKAHhLIhYsDzc6OG-7tN2/view?usp=drive_link
+[2025-07-26 07:59:26] Downloading image ID https://drive.google.com/file/d/1r5bysZP7qmnzKAHhLIhYsDzc6OG-7tN2/view?usp=drive_link from Google Drive
+[2025-07-26 07:59:30] Getting description for image ID https://drive.google.com/file/d/1r5bysZP7qmnzKAHhLIhYsDzc6OG-7tN2/view?usp=drive_link from Ollama
+[2025-07-26 08:00:37] Uploading image ID https://drive.google.com/file/d/1r5bysZP7qmnzKAHhLIhYsDzc6OG-7tN2/view?usp=drive_link to WordPress
+[2025-07-26 08:00:44] Successfully processed: karmê-chöling-yeshe-tsögyal-thangka-closeup-face-and-clothing-half-view.jpg
+[2025-07-26 08:00:45] Processing image 2 of 20 (row 106 , ID:  )
+[2025-07-26 08:00:45] Starting processing for image ID: https://drive.google.com/file/d/1aSMXKcfZKnJBNAzopnaFMGlBAs-c7bJZ/view?usp=drive_link
+[2025-07-26 08:00:45] Downloading image ID https://drive.google.com/file/d/1aSMXKcfZKnJBNAzopnaFMGlBAs-c7bJZ/view?usp=drive_link from Google Drive
+[2025-07-26 08:00:48] Getting description for image ID https://drive.google.com/file/d/1aSMXKcfZKnJBNAzopnaFMGlBAs-c7bJZ/view?usp=drive_link from Ollama
+[2025-07-26 08:01:42] Uploading image ID https://drive.google.com/file/d/1aSMXKcfZKnJBNAzopnaFMGlBAs-c7bJZ/view?usp=drive_link to WordPress
+[2025-07-26 08:01:48] Successfully processed: karmê-chöling-yeshe-tsögyal-thangka-closeup-face-only.jpg
+[2025-07-26 08:01:49] Processing image 3 of 20 (row 107 , ID:  )
+[2025-07-26 08:01:49] Starting processing for image ID: https://drive.google.com/file/d/1OURYPpjTpTMK3XqG6VorOsEcJnQmWqmS/view?usp=drive_link
+[2025-07-26 08:01:49] Downloading image ID https://drive.google.com/file/d/1OURYPpjTpTMK3XqG6VorOsEcJnQmWqmS/view?usp=drive_link from Google Drive
+[2025-07-26 08:01:53] Getting description for image ID https://drive.google.com/file/d/1OURYPpjTpTMK3XqG6VorOsEcJnQmWqmS/view?usp=drive_link from Ollama
+[2025-07-26 08:02:43] Uploading image ID https://drive.google.com/file/d/1OURYPpjTpTMK3XqG6VorOsEcJnQmWqmS/view?usp=drive_link to WordPress
+[2025-07-26 08:02:50] Successfully processed: karmê-chöling-yeshe-tsögyal-thangka-closeup-landscape.jpg
+[2025-07-26 08:02:51] Processing image 4 of 20 (row 108 , ID:  )
+[2025-07-26 08:02:51] Starting processing for image ID: https://drive.google.com/file/d/1oP3gAGeHWlIH_NRbRszrYNkLeUhZUzXR/view?usp=drive_link
+[2025-07-26 08:02:51] Downloading image ID https://drive.google.com/file/d/1oP3gAGeHWlIH_NRbRszrYNkLeUhZUzXR/view?usp=drive_link from Google Drive
+[2025-07-26 08:02:57] Getting description for image ID https://drive.google.com/file/d/1oP3gAGeHWlIH_NRbRszrYNkLeUhZUzXR/view?usp=drive_link from Ollama
+[2025-07-26 08:03:43] Uploading image ID https://drive.google.com/file/d/1oP3gAGeHWlIH_NRbRszrYNkLeUhZUzXR/view?usp=drive_link to WordPress
+[2025-07-26 08:03:50] Successfully processed: karmê-chöling-dragon-brocade-pattern.jpg
+[2025-07-26 08:03:51] Processing image 5 of 20 (row 109 , ID:  )
+[2025-07-26 08:03:51] Starting processing for image ID: https://drive.google.com/file/d/1pKUBoVIJTcOuwgXqjn2C8xOC6Cp6ss2m/view?usp=drive_link
+[2025-07-26 08:03:51] Downloading image ID https://drive.google.com/file/d/1pKUBoVIJTcOuwgXqjn2C8xOC6Cp6ss2m/view?usp=drive_link from Google Drive
+[2025-07-26 08:03:53] Getting description for image ID https://drive.google.com/file/d/1pKUBoVIJTcOuwgXqjn2C8xOC6Cp6ss2m/view?usp=drive_link from Ollama
+[2025-07-26 08:04:40] Uploading image ID https://drive.google.com/file/d/1pKUBoVIJTcOuwgXqjn2C8xOC6Cp6ss2m/view?usp=drive_link to WordPress
+[2025-07-26 08:04:47] Successfully processed: karmê-chöling-four-armed-mahakala-thangka.jpg
+[2025-07-26 08:04:48] Processing image 6 of 20 (row 110 , ID:  )
+[2025-07-26 08:04:48] Starting processing for image ID: https://drive.google.com/file/d/1NqDudfU79FVda52li7NX4rGLDNVZUjcV/view?usp=drive_link
+[2025-07-26 08:04:48] Downloading image ID https://drive.google.com/file/d/1NqDudfU79FVda52li7NX4rGLDNVZUjcV/view?usp=drive_link from Google Drive
+[2025-07-26 08:04:51] Getting description for image ID https://drive.google.com/file/d/1NqDudfU79FVda52li7NX4rGLDNVZUjcV/view?usp=drive_link from Ollama
+[2025-07-26 08:05:39] Uploading image ID https://drive.google.com/file/d/1NqDudfU79FVda52li7NX4rGLDNVZUjcV/view?usp=drive_link to WordPress
+[2025-07-26 08:05:45] Successfully processed: karmê-chöling-four-armed-mahakala-thangka-closeup.jpg
+[2025-07-26 08:05:46] Processing image 7 of 20 (row 111 , ID:  )
+[2025-07-26 08:05:46] Starting processing for image ID: https://drive.google.com/file/d/1CgA9anEhGQen1DfTBY6X8m5dgnqnTlsa/view?usp=drive_link
+[2025-07-26 08:05:46] Downloading image ID https://drive.google.com/file/d/1CgA9anEhGQen1DfTBY6X8m5dgnqnTlsa/view?usp=drive_link from Google Drive
+[2025-07-26 08:05:48] Getting description for image ID https://drive.google.com/file/d/1CgA9anEhGQen1DfTBY6X8m5dgnqnTlsa/view?usp=drive_link from Ollama
+[2025-07-26 08:06:36] Uploading image ID https://drive.google.com/file/d/1CgA9anEhGQen1DfTBY6X8m5dgnqnTlsa/view?usp=drive_link to WordPress
+[2025-07-26 08:06:42] Successfully processed: karmê-chöling-four-armed-mahakala-thangka-closeup-with-cloth.jpg
+[2025-07-26 08:06:43] Processing image 8 of 20 (row 112 , ID:  )
+[2025-07-26 08:06:43] Starting processing for image ID: https://drive.google.com/file/d/1zzjfaq1epuULTDP49ykgOEWH-4YmiQw-/view?usp=drive_link
+[2025-07-26 08:06:43] Downloading image ID https://drive.google.com/file/d/1zzjfaq1epuULTDP49ykgOEWH-4YmiQw-/view?usp=drive_link from Google Drive
+[2025-07-26 08:06:47] Getting description for image ID https://drive.google.com/file/d/1zzjfaq1epuULTDP49ykgOEWH-4YmiQw-/view?usp=drive_link from Ollama
+[2025-07-26 08:43:28] Uploading image ID https://drive.google.com/file/d/1zzjfaq1epuULTDP49ykgOEWH-4YmiQw-/view?usp=drive_link to WordPress
+[2025-07-26 08:43:37] Successfully processed: karmê-chöling-four-armed-mahakala-thangka-face-closeup.jpg
+[2025-07-26 08:43:38] Processing image 9 of 20 (row 113 , ID:  )
+[2025-07-26 08:43:38] Starting processing for image ID: https://drive.google.com/file/d/1l2T4bn4KF7CbyMcDhI3yaIcKxH07Ppoi/view?usp=drive_link
+[2025-07-26 08:43:38] Downloading image ID https://drive.google.com/file/d/1l2T4bn4KF7CbyMcDhI3yaIcKxH07Ppoi/view?usp=drive_link from Google Drive
+[2025-07-26 08:43:43] Getting description for image ID https://drive.google.com/file/d/1l2T4bn4KF7CbyMcDhI3yaIcKxH07Ppoi/view?usp=drive_link from Ollama
+[2025-07-26 09:22:10] Uploading image ID https://drive.google.com/file/d/1l2T4bn4KF7CbyMcDhI3yaIcKxH07Ppoi/view?usp=drive_link to WordPress
+[2025-07-26 09:22:18] Successfully processed: karmê-chöling-four-armed-mahakala-thangka-with-brocade.jpg
+[2025-07-26 09:22:19] Processing image 10 of 20 (row 114 , ID:  )
+[2025-07-26 09:22:19] Starting processing for image ID: https://drive.google.com/file/d/1tLJLp6Bl9Fw2ppCLkD4DYhTxHEvz9eYj/view?usp=drive_link
+[2025-07-26 09:22:19] Downloading image ID https://drive.google.com/file/d/1tLJLp6Bl9Fw2ppCLkD4DYhTxHEvz9eYj/view?usp=drive_link from Google Drive
+[2025-07-26 09:22:23] Getting description for image ID https://drive.google.com/file/d/1tLJLp6Bl9Fw2ppCLkD4DYhTxHEvz9eYj/view?usp=drive_link from Ollama
+[2025-07-26 09:23:12] Uploading image ID https://drive.google.com/file/d/1tLJLp6Bl9Fw2ppCLkD4DYhTxHEvz9eYj/view?usp=drive_link to WordPress
+[2025-07-26 09:23:19] Successfully processed: karmê-chöling-four-armed-mahakala-thangka-face-closeup-with-hooked-knife-and-skullcup.jpg
+[2025-07-26 09:23:20] Processing image 11 of 20 (row 115 , ID:  )
+[2025-07-26 09:23:20] Starting processing for image ID: https://drive.google.com/file/d/19oaHM3aaA49F2oAFYewQ9lfge1aSJp5W/view?usp=drive_link
+[2025-07-26 09:23:20] Downloading image ID https://drive.google.com/file/d/19oaHM3aaA49F2oAFYewQ9lfge1aSJp5W/view?usp=drive_link from Google Drive
+[2025-07-26 09:23:23] Getting description for image ID https://drive.google.com/file/d/19oaHM3aaA49F2oAFYewQ9lfge1aSJp5W/view?usp=drive_link from Ollama
+[2025-07-26 10:01:28] Uploading image ID https://drive.google.com/file/d/19oaHM3aaA49F2oAFYewQ9lfge1aSJp5W/view?usp=drive_link to WordPress
+[2025-07-26 10:03:12] Processing image 12 of 20 (row 116 , ID:  )
+[2025-07-26 10:03:12] Starting processing for image ID: https://drive.google.com/file/d/1q4NQrb7i_SJucJILvlpkAwnh9VA-0BlJ/view?usp=drive_link
+[2025-07-26 10:03:12] Downloading image ID https://drive.google.com/file/d/1q4NQrb7i_SJucJILvlpkAwnh9VA-0BlJ/view?usp=drive_link from Google Drive
+[2025-07-26 10:03:15] Getting description for image ID https://drive.google.com/file/d/1q4NQrb7i_SJucJILvlpkAwnh9VA-0BlJ/view?usp=drive_link from Ollama
+[2025-07-26 10:04:05] Uploading image ID https://drive.google.com/file/d/1q4NQrb7i_SJucJILvlpkAwnh9VA-0BlJ/view?usp=drive_link to WordPress
+[2025-07-26 10:05:48] Processing image 13 of 20 (row 117 , ID:  )
+[2025-07-26 10:05:48] Starting processing for image ID: https://drive.google.com/file/d/14jzMpoyL_V-LeIHutbnCL-C_8st8t71h/view?usp=drive_link
+[2025-07-26 10:05:48] Downloading image ID https://drive.google.com/file/d/14jzMpoyL_V-LeIHutbnCL-C_8st8t71h/view?usp=drive_link from Google Drive
+[2025-07-26 10:05:52] Getting description for image ID https://drive.google.com/file/d/14jzMpoyL_V-LeIHutbnCL-C_8st8t71h/view?usp=drive_link from Ollama
+[2025-07-26 10:42:58] Uploading image ID https://drive.google.com/file/d/14jzMpoyL_V-LeIHutbnCL-C_8st8t71h/view?usp=drive_link to WordPress
+[2025-07-26 10:43:06] Successfully processed: karmê-chöling-main-shrine-room-ceiling-with-knot-of-eternity.jpg
+[2025-07-26 10:43:07] Processing image 14 of 20 (row 118 , ID:  )
+[2025-07-26 10:43:07] Starting processing for image ID: https://drive.google.com/file/d/1TxqU69peqGkUqKOB61w9EFmH5GNLUpS5/view?usp=drive_link
+[2025-07-26 10:43:07] Downloading image ID https://drive.google.com/file/d/1TxqU69peqGkUqKOB61w9EFmH5GNLUpS5/view?usp=drive_link from Google Drive
+[2025-07-26 10:43:11] Getting description for image ID https://drive.google.com/file/d/1TxqU69peqGkUqKOB61w9EFmH5GNLUpS5/view?usp=drive_link from Ollama
+[2025-07-26 10:44:02] Uploading image ID https://drive.google.com/file/d/1TxqU69peqGkUqKOB61w9EFmH5GNLUpS5/view?usp=drive_link to WordPress
+[2025-07-26 10:44:07] Successfully processed: karmê-chöling-main-shrine-room-ceiling-with-knot-of-eternity-and-shambhala-garuda-and-four-dignities.jpg
+[2025-07-26 10:44:08] Processing image 15 of 20 (row 119 , ID:  )
+[2025-07-26 10:44:08] Starting processing for image ID: https://drive.google.com/file/d/1Hzt5CymuSfJi7jlfC7nBrlmgs9Wo_332/view?usp=drive_link
+[2025-07-26 10:44:08] Downloading image ID https://drive.google.com/file/d/1Hzt5CymuSfJi7jlfC7nBrlmgs9Wo_332/view?usp=drive_link from Google Drive
+[2025-07-26 10:44:13] Getting description for image ID https://drive.google.com/file/d/1Hzt5CymuSfJi7jlfC7nBrlmgs9Wo_332/view?usp=drive_link from Ollama
+[2025-07-26 10:44:59] Uploading image ID https://drive.google.com/file/d/1Hzt5CymuSfJi7jlfC7nBrlmgs9Wo_332/view?usp=drive_link to WordPress
+[2025-07-26 10:45:06] Successfully processed: karmê-chöling-main-shrine-room-red-and-yelow-dragon-brocade-pattern.jpg
+[2025-07-26 10:45:07] Processing image 16 of 20 (row 120 , ID:  )
+[2025-07-26 10:45:07] Starting processing for image ID: https://drive.google.com/file/d/1vVXr34rkbls296b2cy4nSH76UD7OoRbq/view?usp=drive_link
+[2025-07-26 10:45:07] Downloading image ID https://drive.google.com/file/d/1vVXr34rkbls296b2cy4nSH76UD7OoRbq/view?usp=drive_link from Google Drive
+[2025-07-26 10:45:11] Getting description for image ID https://drive.google.com/file/d/1vVXr34rkbls296b2cy4nSH76UD7OoRbq/view?usp=drive_link from Ollama
+[2025-07-26 10:45:57] Uploading image ID https://drive.google.com/file/d/1vVXr34rkbls296b2cy4nSH76UD7OoRbq/view?usp=drive_link to WordPress
+[2025-07-26 10:46:04] Successfully processed: karmê-chöling-main-shrine-room-red-and-yelow-dragon-brocade-pattern-closeup.jpg
+[2025-07-26 10:46:05] Processing image 17 of 20 (row 121 , ID:  )
+[2025-07-26 10:46:05] Starting processing for image ID: https://drive.google.com/file/d/1BVtZDoB4je18Tmev-W0Ep5KaT5LNmA0_/view?usp=drive_link
+[2025-07-26 10:46:05] Downloading image ID https://drive.google.com/file/d/1BVtZDoB4je18Tmev-W0Ep5KaT5LNmA0_/view?usp=drive_link from Google Drive
+[2025-07-26 10:46:09] Getting description for image ID https://drive.google.com/file/d/1BVtZDoB4je18Tmev-W0Ep5KaT5LNmA0_/view?usp=drive_link from Ollama
+[2025-07-26 10:46:55] Uploading image ID https://drive.google.com/file/d/1BVtZDoB4je18Tmev-W0Ep5KaT5LNmA0_/view?usp=drive_link to WordPress
+[2025-07-26 10:47:01] Successfully processed: karmê-chöling-main-shrine-room-shrine-with-dragon-brocade-and-plant.jpg
+[2025-07-26 10:47:02] Processing image 18 of 20 (row 122 , ID:  )
+[2025-07-26 10:47:02] Starting processing for image ID: https://drive.google.com/file/d/1D5A0pR7ZKui8f5f8zL7AWF50WB5yxkEO/view?usp=drive_link
+[2025-07-26 10:47:02] Downloading image ID https://drive.google.com/file/d/1D5A0pR7ZKui8f5f8zL7AWF50WB5yxkEO/view?usp=drive_link from Google Drive
+[2025-07-26 10:47:05] Getting description for image ID https://drive.google.com/file/d/1D5A0pR7ZKui8f5f8zL7AWF50WB5yxkEO/view?usp=drive_link from Ollama
+[2025-07-26 10:47:49] Uploading image ID https://drive.google.com/file/d/1D5A0pR7ZKui8f5f8zL7AWF50WB5yxkEO/view?usp=drive_link to WordPress
+[2025-07-26 10:47:56] Successfully processed: karmê-chöling-main-shrine-room-gold-knot-of-eternity.jpg
+[2025-07-26 10:47:57] Processing image 19 of 20 (row 123 , ID:  )
+[2025-07-26 10:47:57] Starting processing for image ID: https://drive.google.com/file/d/1CVKABnGcZGmbvMf7FxK48hniBUXnEOVd/view?usp=drive_link
+[2025-07-26 10:47:57] Downloading image ID https://drive.google.com/file/d/1CVKABnGcZGmbvMf7FxK48hniBUXnEOVd/view?usp=drive_link from Google Drive
+[2025-07-26 10:48:00] Getting description for image ID https://drive.google.com/file/d/1CVKABnGcZGmbvMf7FxK48hniBUXnEOVd/view?usp=drive_link from Ollama
+[2025-07-26 10:48:47] Uploading image ID https://drive.google.com/file/d/1CVKABnGcZGmbvMf7FxK48hniBUXnEOVd/view?usp=drive_link to WordPress
+[2025-07-26 10:48:53] Successfully processed: karmê-chöling-main-shrine-room-gold-knot-of-eternity-with-orange-and-white-wall.jpg
+[2025-07-26 10:48:54] Processing image 20 of 20 (row 124 , ID:  )
+[2025-07-26 10:48:54] Starting processing for image ID: https://drive.google.com/file/d/19hyDH_Eo84JRS_i1HQEi-PDSAKt243iT/view?usp=drive_link
+[2025-07-26 10:48:54] Downloading image ID https://drive.google.com/file/d/19hyDH_Eo84JRS_i1HQEi-PDSAKt243iT/view?usp=drive_link from Google Drive
+[2025-07-26 10:48:57] Getting description for image ID https://drive.google.com/file/d/19hyDH_Eo84JRS_i1HQEi-PDSAKt243iT/view?usp=drive_link from Ollama
+[2025-07-26 10:49:42] Uploading image ID https://drive.google.com/file/d/19hyDH_Eo84JRS_i1HQEi-PDSAKt243iT/view?usp=drive_link to WordPress
+[2025-07-26 10:49:48] Successfully processed: karmê-chöling-main-shrine-room-drum-with-window.jpg
+[2025-07-26 10:49:49] === Batch processing completed ===
+[2025-07-26 10:49:49] Successfully processed: 18 images
+[2025-07-26 10:49:49] Failed to process: 2 images
+[2025-07-26 10:49:49] Failed image IDs: https://drive.google.com/file/d/19oaHM3aaA49F2oAFYewQ9lfge1aSJp5W/view?usp=drive_link, https://drive.google.com/file/d/1q4NQrb7i_SJucJILvlpkAwnh9VA-0BlJ/view?usp=drive_link
+[2025-07-26 10:49:49] Rows 105 to 124 have been processed. Success: 18 | Failed: 2
+[2025-07-26 10:52:44] === Starting new batch processing session ===
+[2025-07-26 10:52:44] Batch configuration: Start row = 125 , Batch size = 20
+[2025-07-26 10:52:44] Loaded image data with 174 total images
+[2025-07-26 10:52:44] Processing rows 125 to 144 ( 20 images)
+[2025-07-26 10:52:44] Processing image 1 of 20 (row 125 , ID:  )
+[2025-07-26 10:52:44] Starting processing for image ID: https://drive.google.com/file/d/1JO6fA2qZBHL_J3Vo1c9P3vtd2edElemA/view?usp=drive_link
+[2025-07-26 10:52:44] Downloading image ID https://drive.google.com/file/d/1JO6fA2qZBHL_J3Vo1c9P3vtd2edElemA/view?usp=drive_link from Google Drive
+[2025-07-26 10:52:46] Getting description for image ID https://drive.google.com/file/d/1JO6fA2qZBHL_J3Vo1c9P3vtd2edElemA/view?usp=drive_link from Ollama
+[2025-07-26 10:53:41] Uploading image ID https://drive.google.com/file/d/1JO6fA2qZBHL_J3Vo1c9P3vtd2edElemA/view?usp=drive_link to WordPress
+[2025-07-26 10:53:47] Successfully processed: karmê-chöling-main-shrine-room-large-gong-with-small-rin-and-window.jpg
+[2025-07-26 10:53:48] Processing image 2 of 20 (row 126 , ID:  )
+[2025-07-26 10:53:49] Starting processing for image ID: https://drive.google.com/file/d/1ts-TkWRhao-8MS0DqTEQ_rcTaPUWplFm/view?usp=drive_link
+[2025-07-26 10:53:49] Downloading image ID https://drive.google.com/file/d/1ts-TkWRhao-8MS0DqTEQ_rcTaPUWplFm/view?usp=drive_link from Google Drive
+[2025-07-26 10:53:51] Getting description for image ID https://drive.google.com/file/d/1ts-TkWRhao-8MS0DqTEQ_rcTaPUWplFm/view?usp=drive_link from Ollama
+[2025-07-26 10:54:37] Uploading image ID https://drive.google.com/file/d/1ts-TkWRhao-8MS0DqTEQ_rcTaPUWplFm/view?usp=drive_link to WordPress
+[2025-07-26 10:54:42] Successfully processed: karmê-chöling-main-shrine-room-large-gong-closeup-with-blue-meditation-cushion.jpg
+[2025-07-26 10:54:43] Processing image 3 of 20 (row 127 , ID:  )
+[2025-07-26 10:54:43] Starting processing for image ID: https://drive.google.com/file/d/1xu25CSEdS2GVqarAV9HAhG_D6sKCUA3H/view?usp=drive_link
+[2025-07-26 10:54:43] Downloading image ID https://drive.google.com/file/d/1xu25CSEdS2GVqarAV9HAhG_D6sKCUA3H/view?usp=drive_link from Google Drive
+[2025-07-26 10:54:46] Getting description for image ID https://drive.google.com/file/d/1xu25CSEdS2GVqarAV9HAhG_D6sKCUA3H/view?usp=drive_link from Ollama
+[2025-07-26 10:55:31] Uploading image ID https://drive.google.com/file/d/1xu25CSEdS2GVqarAV9HAhG_D6sKCUA3H/view?usp=drive_link to WordPress
+[2025-07-26 10:55:39] Successfully processed: karmê-chöling-main-shrine-room-large-gong-with-blue-meditation-cushion.jpg
+[2025-07-26 10:55:40] Processing image 4 of 20 (row 128 , ID:  )
+[2025-07-26 10:55:40] Starting processing for image ID: https://drive.google.com/file/d/1dRbGpyFD-LWABUsWKQ-ftAgsWJNr-qup/view?usp=drive_link
+[2025-07-26 10:55:40] Downloading image ID https://drive.google.com/file/d/1dRbGpyFD-LWABUsWKQ-ftAgsWJNr-qup/view?usp=drive_link from Google Drive
+[2025-07-26 10:55:44] Getting description for image ID https://drive.google.com/file/d/1dRbGpyFD-LWABUsWKQ-ftAgsWJNr-qup/view?usp=drive_link from Ollama
+[2025-07-26 10:56:30] Uploading image ID https://drive.google.com/file/d/1dRbGpyFD-LWABUsWKQ-ftAgsWJNr-qup/view?usp=drive_link to WordPress
+[2025-07-26 10:56:36] Successfully processed: karmê-chöling-main-shrine-room-large-gong-with-blue-meditation-cushion-view-from-slightly-above.jpg
+[2025-07-26 10:56:37] Processing image 5 of 20 (row 129 , ID:  )
+[2025-07-26 10:56:38] Starting processing for image ID: https://drive.google.com/file/d/16S8cLvboi7-jVQF2l_w0Iq_BETK7HT4_/view?usp=drive_link
+[2025-07-26 10:56:38] Downloading image ID https://drive.google.com/file/d/16S8cLvboi7-jVQF2l_w0Iq_BETK7HT4_/view?usp=drive_link from Google Drive
+[2025-07-26 10:56:40] Getting description for image ID https://drive.google.com/file/d/16S8cLvboi7-jVQF2l_w0Iq_BETK7HT4_/view?usp=drive_link from Ollama
+[2025-07-26 10:57:26] Uploading image ID https://drive.google.com/file/d/16S8cLvboi7-jVQF2l_w0Iq_BETK7HT4_/view?usp=drive_link to WordPress
+[2025-07-26 10:57:32] Successfully processed: karmê-chöling-main-shrine-room-large-gong-with-blue-meditation-cushion-side-view.jpg
+[2025-07-26 10:57:33] Processing image 6 of 20 (row 130 , ID:  )
+[2025-07-26 10:57:33] Starting processing for image ID: https://drive.google.com/file/d/1z2P31gh7pJ1XqhPK08TkJEUPtmnshPPq/view?usp=drive_link
+[2025-07-26 10:57:33] Downloading image ID https://drive.google.com/file/d/1z2P31gh7pJ1XqhPK08TkJEUPtmnshPPq/view?usp=drive_link from Google Drive
+[2025-07-26 10:57:36] Getting description for image ID https://drive.google.com/file/d/1z2P31gh7pJ1XqhPK08TkJEUPtmnshPPq/view?usp=drive_link from Ollama
+[2025-07-26 10:58:21] Uploading image ID https://drive.google.com/file/d/1z2P31gh7pJ1XqhPK08TkJEUPtmnshPPq/view?usp=drive_link to WordPress
+[2025-07-26 10:58:27] Successfully processed: karmê-chöling-main-shrine-room-hardwood-floor-with-sunlight-and-window.jpg
+[2025-07-26 10:58:28] Processing image 7 of 20 (row 131 , ID:  )
+[2025-07-26 10:58:28] Starting processing for image ID: https://drive.google.com/file/d/1BaNA4Oj9-srSy6Y5kt3raQx4pbeALcz3/view?usp=drive_link
+[2025-07-26 10:58:28] Downloading image ID https://drive.google.com/file/d/1BaNA4Oj9-srSy6Y5kt3raQx4pbeALcz3/view?usp=drive_link from Google Drive
+[2025-07-26 10:58:32] Getting description for image ID https://drive.google.com/file/d/1BaNA4Oj9-srSy6Y5kt3raQx4pbeALcz3/view?usp=drive_link from Ollama
+[2025-07-26 10:59:17] Uploading image ID https://drive.google.com/file/d/1BaNA4Oj9-srSy6Y5kt3raQx4pbeALcz3/view?usp=drive_link to WordPress
+[2025-07-26 10:59:25] Successfully processed: karmê-chöling-main-shrine-room-hardwood-floor-with-sunlight-and-windows-and-ceiling-lights.jpg
+[2025-07-26 10:59:26] Processing image 8 of 20 (row 132 , ID:  )
+[2025-07-26 10:59:26] Starting processing for image ID: https://drive.google.com/file/d/1LmcTAS-p_qDSp6CGy_y8LqF4ye_5m2GW/view?usp=drive_link
+[2025-07-26 10:59:26] Downloading image ID https://drive.google.com/file/d/1LmcTAS-p_qDSp6CGy_y8LqF4ye_5m2GW/view?usp=drive_link from Google Drive
+[2025-07-26 10:59:29] Getting description for image ID https://drive.google.com/file/d/1LmcTAS-p_qDSp6CGy_y8LqF4ye_5m2GW/view?usp=drive_link from Ollama
+[2025-07-26 11:00:14] Uploading image ID https://drive.google.com/file/d/1LmcTAS-p_qDSp6CGy_y8LqF4ye_5m2GW/view?usp=drive_link to WordPress
+[2025-07-26 11:00:21] Successfully processed: karmê-chöling-main-shrine-room-hardwood-floor-with-sunlight-and-windows-and-ceiling-lights-and-table.jpg
+[2025-07-26 11:00:22] Processing image 9 of 20 (row 133 , ID:  )
+[2025-07-26 11:00:22] Starting processing for image ID: https://drive.google.com/file/d/1PMgnREiBD2Nq4xoUuO0mdnun1KrUJ05O/view?usp=drive_link
+[2025-07-26 11:00:22] Downloading image ID https://drive.google.com/file/d/1PMgnREiBD2Nq4xoUuO0mdnun1KrUJ05O/view?usp=drive_link from Google Drive
+[2025-07-26 11:00:25] Getting description for image ID https://drive.google.com/file/d/1PMgnREiBD2Nq4xoUuO0mdnun1KrUJ05O/view?usp=drive_link from Ollama
+[2025-07-26 11:01:10] Uploading image ID https://drive.google.com/file/d/1PMgnREiBD2Nq4xoUuO0mdnun1KrUJ05O/view?usp=drive_link to WordPress
+[2025-07-26 11:01:16] Successfully processed: karmê-chöling-main-shrine-room-four-armed-mahakala-with-brocade-and-pillar-and-ceiling-lights.jpg
+[2025-07-26 11:01:17] Processing image 10 of 20 (row 134 , ID:  )
+[2025-07-26 11:01:17] Starting processing for image ID: https://drive.google.com/file/d/1olwQVkYw0yNN7dvoJmo0XxMnex1AKOkO/view?usp=drive_link
+[2025-07-26 11:01:17] Downloading image ID https://drive.google.com/file/d/1olwQVkYw0yNN7dvoJmo0XxMnex1AKOkO/view?usp=drive_link from Google Drive
+[2025-07-26 11:01:19] Getting description for image ID https://drive.google.com/file/d/1olwQVkYw0yNN7dvoJmo0XxMnex1AKOkO/view?usp=drive_link from Ollama
+[2025-07-26 11:02:07] Uploading image ID https://drive.google.com/file/d/1olwQVkYw0yNN7dvoJmo0XxMnex1AKOkO/view?usp=drive_link to WordPress
+[2025-07-26 11:02:13] Successfully processed: karmê-chöling-main-shrine-room-four-armed-mahakala-close-with-brocade-and-pillar-and-ceiling-lights.jpg
+[2025-07-26 11:02:14] Processing image 11 of 20 (row 135 , ID:  )
+[2025-07-26 11:02:14] Starting processing for image ID: https://drive.google.com/file/d/1Gt1b-AOpfe90OILvREgX3Xso1otxW_4y/view?usp=drive_link
+[2025-07-26 11:02:14] Downloading image ID https://drive.google.com/file/d/1Gt1b-AOpfe90OILvREgX3Xso1otxW_4y/view?usp=drive_link from Google Drive
+[2025-07-26 11:02:16] Getting description for image ID https://drive.google.com/file/d/1Gt1b-AOpfe90OILvREgX3Xso1otxW_4y/view?usp=drive_link from Ollama
+[2025-07-26 11:03:02] Uploading image ID https://drive.google.com/file/d/1Gt1b-AOpfe90OILvREgX3Xso1otxW_4y/view?usp=drive_link to WordPress
+[2025-07-26 11:03:08] Successfully processed: karmê-chöling-main-shrine-room-four-armed-mahakala-close-with-brocade-and-hum-calligraphy.jpg
+[2025-07-26 11:03:09] Processing image 12 of 20 (row 136 , ID:  )
+[2025-07-26 11:03:09] Starting processing for image ID: https://drive.google.com/file/d/1TWwPZnVTWDCQ1apieVXvn6S0ALWqTS_Q/view?usp=drive_link
+[2025-07-26 11:03:09] Downloading image ID https://drive.google.com/file/d/1TWwPZnVTWDCQ1apieVXvn6S0ALWqTS_Q/view?usp=drive_link from Google Drive
+[2025-07-26 11:03:11] Getting description for image ID https://drive.google.com/file/d/1TWwPZnVTWDCQ1apieVXvn6S0ALWqTS_Q/view?usp=drive_link from Ollama
+[2025-07-26 11:03:56] Uploading image ID https://drive.google.com/file/d/1TWwPZnVTWDCQ1apieVXvn6S0ALWqTS_Q/view?usp=drive_link to WordPress
+[2025-07-26 11:04:02] Successfully processed: karmê-chöling-om-mama-rulu-rulu-hum-bhyo-hum-calligraphy.jpg
+[2025-07-26 11:04:03] Processing image 13 of 20 (row 137 , ID:  )
+[2025-07-26 11:04:03] Starting processing for image ID: https://drive.google.com/file/d/1-j_culc7tdRz181ucmApf-vnpKeTUow5/view?usp=drive_link
+[2025-07-26 11:04:03] Downloading image ID https://drive.google.com/file/d/1-j_culc7tdRz181ucmApf-vnpKeTUow5/view?usp=drive_link from Google Drive
+[2025-07-26 11:04:05] Getting description for image ID https://drive.google.com/file/d/1-j_culc7tdRz181ucmApf-vnpKeTUow5/view?usp=drive_link from Ollama
+[2025-07-26 11:40:40] Uploading image ID https://drive.google.com/file/d/1-j_culc7tdRz181ucmApf-vnpKeTUow5/view?usp=drive_link to WordPress
+[2025-07-26 11:40:48] Successfully processed: karmê-chöling-om-mama-rulu-rulu-hum-bhyo-hum-calligraphy-closeup.jpg
+[2025-07-26 11:40:49] Processing image 14 of 20 (row 138 , ID:  )
+[2025-07-26 11:40:49] Starting processing for image ID: https://drive.google.com/file/d/1otp_A1TDgXuUahtS_Wev2j-eywNjlq9-/view?usp=drive_link
+[2025-07-26 11:40:49] Downloading image ID https://drive.google.com/file/d/1otp_A1TDgXuUahtS_Wev2j-eywNjlq9-/view?usp=drive_link from Google Drive
+[2025-07-26 11:40:54] Getting description for image ID https://drive.google.com/file/d/1otp_A1TDgXuUahtS_Wev2j-eywNjlq9-/view?usp=drive_link from Ollama
+[2025-07-26 11:41:40] Uploading image ID https://drive.google.com/file/d/1otp_A1TDgXuUahtS_Wev2j-eywNjlq9-/view?usp=drive_link to WordPress
+[2025-07-26 11:41:47] Successfully processed: karmê-chöling-tree-with-logs-in-sunlight.jpg
+[2025-07-26 11:41:48] Processing image 15 of 20 (row 139 , ID:  )
+[2025-07-26 11:41:48] Starting processing for image ID: https://drive.google.com/file/d/1Ckq7u7UTZ9lREo0ww4VvONuU8ZtNE5RG/view?usp=drive_link
+[2025-07-26 11:41:48] Downloading image ID https://drive.google.com/file/d/1Ckq7u7UTZ9lREo0ww4VvONuU8ZtNE5RG/view?usp=drive_link from Google Drive
+[2025-07-26 11:41:53] Getting description for image ID https://drive.google.com/file/d/1Ckq7u7UTZ9lREo0ww4VvONuU8ZtNE5RG/view?usp=drive_link from Ollama
+[2025-07-26 11:42:39] Uploading image ID https://drive.google.com/file/d/1Ckq7u7UTZ9lREo0ww4VvONuU8ZtNE5RG/view?usp=drive_link to WordPress
+[2025-07-26 11:42:46] Successfully processed: karmê-chöling-trees-with-blue-sky.jpg
+[2025-07-26 11:42:47] Processing image 16 of 20 (row 140 , ID:  )
+[2025-07-26 11:42:47] Starting processing for image ID: https://drive.google.com/file/d/1d2RT_mHRb2CzYx7kii2Xr_bcaiCEUzp7/view?usp=drive_link
+[2025-07-26 11:42:47] Downloading image ID https://drive.google.com/file/d/1d2RT_mHRb2CzYx7kii2Xr_bcaiCEUzp7/view?usp=drive_link from Google Drive
+[2025-07-26 11:42:50] Getting description for image ID https://drive.google.com/file/d/1d2RT_mHRb2CzYx7kii2Xr_bcaiCEUzp7/view?usp=drive_link from Ollama
+[2025-07-26 11:43:34] Uploading image ID https://drive.google.com/file/d/1d2RT_mHRb2CzYx7kii2Xr_bcaiCEUzp7/view?usp=drive_link to WordPress
+[2025-07-26 11:43:41] Successfully processed: karmê-chöling-trees-and-grass-with-blue-sky.jpg
+[2025-07-26 11:43:42] Processing image 17 of 20 (row 141 , ID:  )
+[2025-07-26 11:43:42] Starting processing for image ID: https://drive.google.com/file/d/1PATXINxHhtVxok6jsqLw-SgmC1PEnwZE/view?usp=drive_link
+[2025-07-26 11:43:42] Downloading image ID https://drive.google.com/file/d/1PATXINxHhtVxok6jsqLw-SgmC1PEnwZE/view?usp=drive_link from Google Drive
+[2025-07-26 11:43:47] Getting description for image ID https://drive.google.com/file/d/1PATXINxHhtVxok6jsqLw-SgmC1PEnwZE/view?usp=drive_link from Ollama
+[2025-07-26 11:44:30] Uploading image ID https://drive.google.com/file/d/1PATXINxHhtVxok6jsqLw-SgmC1PEnwZE/view?usp=drive_link to WordPress
+[2025-07-26 11:44:38] Successfully processed: karmê-chöling-purkhang-with-trees-and-grass-and-blue-sky-and-path.jpg
+[2025-07-26 11:44:39] Processing image 18 of 20 (row 142 , ID:  )
+[2025-07-26 11:44:39] Starting processing for image ID: https://drive.google.com/file/d/111STGyGXGBIMF5oKKVcybrd6GRkkU87D/view?usp=drive_link
+[2025-07-26 11:44:39] Downloading image ID https://drive.google.com/file/d/111STGyGXGBIMF5oKKVcybrd6GRkkU87D/view?usp=drive_link from Google Drive
+[2025-07-26 11:44:44] Getting description for image ID https://drive.google.com/file/d/111STGyGXGBIMF5oKKVcybrd6GRkkU87D/view?usp=drive_link from Ollama
+[2025-07-26 11:45:31] Uploading image ID https://drive.google.com/file/d/111STGyGXGBIMF5oKKVcybrd6GRkkU87D/view?usp=drive_link to WordPress
+[2025-07-26 11:45:38] Successfully processed: karmê-chöling-purkhang-with-trees-and-grass-and-blue-sky-and-path-and-shadows.jpg
+[2025-07-26 11:45:39] Processing image 19 of 20 (row 143 , ID:  )
+[2025-07-26 11:45:39] Starting processing for image ID: https://drive.google.com/file/d/1dZDFGD0rTUZVfIcDme9mErkDakY14SwZ/view?usp=drive_link
+[2025-07-26 11:45:39] Downloading image ID https://drive.google.com/file/d/1dZDFGD0rTUZVfIcDme9mErkDakY14SwZ/view?usp=drive_link from Google Drive
+[2025-07-26 11:45:43] Getting description for image ID https://drive.google.com/file/d/1dZDFGD0rTUZVfIcDme9mErkDakY14SwZ/view?usp=drive_link from Ollama
+[2025-07-26 11:46:27] Uploading image ID https://drive.google.com/file/d/1dZDFGD0rTUZVfIcDme9mErkDakY14SwZ/view?usp=drive_link to WordPress
+[2025-07-26 11:46:34] Successfully processed: karmê-chöling-purkhang-with-trees-and-shadows-and-path-and-grass-and-blue-sky.jpg
+[2025-07-26 11:46:35] Processing image 20 of 20 (row 144 , ID:  )
+[2025-07-26 11:46:35] Starting processing for image ID: https://drive.google.com/file/d/1sQQ3gcVAsBf1qJA9ucv8m3_hSNX3szWf/view?usp=drive_link
+[2025-07-26 11:46:35] Downloading image ID https://drive.google.com/file/d/1sQQ3gcVAsBf1qJA9ucv8m3_hSNX3szWf/view?usp=drive_link from Google Drive
+[2025-07-26 11:46:37] Getting description for image ID https://drive.google.com/file/d/1sQQ3gcVAsBf1qJA9ucv8m3_hSNX3szWf/view?usp=drive_link from Ollama
+[2025-07-26 11:47:23] Uploading image ID https://drive.google.com/file/d/1sQQ3gcVAsBf1qJA9ucv8m3_hSNX3szWf/view?usp=drive_link to WordPress
+[2025-07-26 11:47:28] Successfully processed: karmê-chöling-purkhang-with-shadows-and-path-and-grass-and-blue-sky-and-trees.jpg
+[2025-07-26 11:47:29] === Batch processing completed ===
+[2025-07-26 11:47:29] Successfully processed: 20 images
+[2025-07-26 11:47:29] Failed to process: 0 images
+[2025-07-26 11:47:29] Rows 125 to 144 have been processed. Success: 20 | Failed: 0
+[2025-07-26 11:49:18] === Starting new batch processing session ===
+[2025-07-26 11:49:18] Batch configuration: Start row = 145 , Batch size = 20
+[2025-07-26 11:49:18] Loaded image data with 174 total images
+[2025-07-26 11:49:18] Processing rows 145 to 164 ( 20 images)
+[2025-07-26 11:49:18] Processing image 1 of 20 (row 145 , ID:  )
+[2025-07-26 11:49:18] Starting processing for image ID: https://drive.google.com/file/d/1R1hHjdyGkS6YxdZmveReL1XEKWHJiRKN/view?usp=drive_link
+[2025-07-26 11:49:18] Downloading image ID https://drive.google.com/file/d/1R1hHjdyGkS6YxdZmveReL1XEKWHJiRKN/view?usp=drive_link from Google Drive
+[2025-07-26 11:49:21] Getting description for image ID https://drive.google.com/file/d/1R1hHjdyGkS6YxdZmveReL1XEKWHJiRKN/view?usp=drive_link from Ollama
+[2025-07-26 11:50:06] Uploading image ID https://drive.google.com/file/d/1R1hHjdyGkS6YxdZmveReL1XEKWHJiRKN/view?usp=drive_link to WordPress
+[2025-07-26 11:50:13] Successfully processed: karmê-chöling-purkhang-with-shadows-and-grass-and-path-and-blue-sky-and-trees.jpg
+[2025-07-26 11:50:14] Processing image 2 of 20 (row 146 , ID:  )
+[2025-07-26 11:50:14] Starting processing for image ID: https://drive.google.com/file/d/1br7je9SXwrodC5xywlUO3J5dNHSmPpTK/view?usp=drive_link
+[2025-07-26 11:50:14] Downloading image ID https://drive.google.com/file/d/1br7je9SXwrodC5xywlUO3J5dNHSmPpTK/view?usp=drive_link from Google Drive
+[2025-07-26 11:50:17] Getting description for image ID https://drive.google.com/file/d/1br7je9SXwrodC5xywlUO3J5dNHSmPpTK/view?usp=drive_link from Ollama
+[2025-07-26 11:51:02] Uploading image ID https://drive.google.com/file/d/1br7je9SXwrodC5xywlUO3J5dNHSmPpTK/view?usp=drive_link to WordPress
+[2025-07-26 11:51:09] Successfully processed: karmê-chöling-purkhang-with-grass-and-trees.jpg
+[2025-07-26 11:51:10] Processing image 3 of 20 (row 147 , ID:  )
+[2025-07-26 11:51:10] Starting processing for image ID: https://drive.google.com/file/d/1qrH2RApQ6aM_Ngj2vO8OEbETgda6nY52/view?usp=drive_link
+[2025-07-26 11:51:10] Downloading image ID https://drive.google.com/file/d/1qrH2RApQ6aM_Ngj2vO8OEbETgda6nY52/view?usp=drive_link from Google Drive
+[2025-07-26 11:51:13] Getting description for image ID https://drive.google.com/file/d/1qrH2RApQ6aM_Ngj2vO8OEbETgda6nY52/view?usp=drive_link from Ollama
+[2025-07-26 11:51:56] Uploading image ID https://drive.google.com/file/d/1qrH2RApQ6aM_Ngj2vO8OEbETgda6nY52/view?usp=drive_link to WordPress
+[2025-07-26 11:52:04] Successfully processed: karmê-chöling-purkhang-with-grass-and-trees-and-path.jpg
+[2025-07-26 11:52:05] Processing image 4 of 20 (row 148 , ID:  )
+[2025-07-26 11:52:05] Starting processing for image ID: https://drive.google.com/file/d/1z0EBcqMcdmkWOpV8uLkp3V6ZqQDfhaxK/view?usp=drive_link
+[2025-07-26 11:52:05] Downloading image ID https://drive.google.com/file/d/1z0EBcqMcdmkWOpV8uLkp3V6ZqQDfhaxK/view?usp=drive_link from Google Drive
+[2025-07-26 11:52:09] Getting description for image ID https://drive.google.com/file/d/1z0EBcqMcdmkWOpV8uLkp3V6ZqQDfhaxK/view?usp=drive_link from Ollama
+[2025-07-26 11:52:54] Uploading image ID https://drive.google.com/file/d/1z0EBcqMcdmkWOpV8uLkp3V6ZqQDfhaxK/view?usp=drive_link to WordPress
+[2025-07-26 11:53:01] Successfully processed: karmê-chöling-purkhang-corner-view-with-platform.jpg
+[2025-07-26 11:53:02] Processing image 5 of 20 (row 149 , ID:  )
+[2025-07-26 11:53:02] Starting processing for image ID: https://drive.google.com/file/d/1CN05brwF8v2xXL4l_MwPZjLFcd381uft/view?usp=drive_link
+[2025-07-26 11:53:02] Downloading image ID https://drive.google.com/file/d/1CN05brwF8v2xXL4l_MwPZjLFcd381uft/view?usp=drive_link from Google Drive
+[2025-07-26 11:53:06] Getting description for image ID https://drive.google.com/file/d/1CN05brwF8v2xXL4l_MwPZjLFcd381uft/view?usp=drive_link from Ollama
+[2025-07-26 11:53:49] Uploading image ID https://drive.google.com/file/d/1CN05brwF8v2xXL4l_MwPZjLFcd381uft/view?usp=drive_link to WordPress
+[2025-07-26 11:53:56] Successfully processed: karmê-chöling-purkhang-corner-view-with-platform-and-sun-and-sky-and-shadow.jpg
+[2025-07-26 11:53:57] Processing image 6 of 20 (row 150 , ID:  )
+[2025-07-26 11:53:57] Starting processing for image ID: https://drive.google.com/file/d/1nH3Ok9wajdhJoOpgoIRPd-sdSTUttSH7/view?usp=drive_link
+[2025-07-26 11:53:57] Downloading image ID https://drive.google.com/file/d/1nH3Ok9wajdhJoOpgoIRPd-sdSTUttSH7/view?usp=drive_link from Google Drive
+[2025-07-26 11:54:00] Getting description for image ID https://drive.google.com/file/d/1nH3Ok9wajdhJoOpgoIRPd-sdSTUttSH7/view?usp=drive_link from Ollama
+[2025-07-26 11:54:44] Uploading image ID https://drive.google.com/file/d/1nH3Ok9wajdhJoOpgoIRPd-sdSTUttSH7/view?usp=drive_link to WordPress
+[2025-07-26 11:54:52] Successfully processed: karmê-chöling-purkhang-corner-view-with-platform-and-sun-and-sky-and-shadow-and-bench.jpg
+[2025-07-26 11:54:53] Processing image 7 of 20 (row 151 , ID:  )
+[2025-07-26 11:54:53] Starting processing for image ID: https://drive.google.com/file/d/1tHtmqZjUVYqJVDZnBqQ7TmN7WgSEgxv6/view?usp=drive_link
+[2025-07-26 11:54:53] Downloading image ID https://drive.google.com/file/d/1tHtmqZjUVYqJVDZnBqQ7TmN7WgSEgxv6/view?usp=drive_link from Google Drive
+[2025-07-26 11:54:57] Getting description for image ID https://drive.google.com/file/d/1tHtmqZjUVYqJVDZnBqQ7TmN7WgSEgxv6/view?usp=drive_link from Ollama
+[2025-07-26 11:55:43] Uploading image ID https://drive.google.com/file/d/1tHtmqZjUVYqJVDZnBqQ7TmN7WgSEgxv6/view?usp=drive_link to WordPress
+[2025-07-26 11:55:49] Successfully processed: karmê-chöling-purkhang-with-grass-and-trees-and-sky-and-bench.jpg
+[2025-07-26 11:55:50] Processing image 8 of 20 (row 152 , ID:  )
+[2025-07-26 11:55:50] Starting processing for image ID: https://drive.google.com/file/d/1B6nuU526MTeoYGJOETQclY3FD9LMgvl_/view?usp=drive_link
+[2025-07-26 11:55:50] Downloading image ID https://drive.google.com/file/d/1B6nuU526MTeoYGJOETQclY3FD9LMgvl_/view?usp=drive_link from Google Drive
+[2025-07-26 11:55:55] Getting description for image ID https://drive.google.com/file/d/1B6nuU526MTeoYGJOETQclY3FD9LMgvl_/view?usp=drive_link from Ollama
+[2025-07-26 11:56:40] Uploading image ID https://drive.google.com/file/d/1B6nuU526MTeoYGJOETQclY3FD9LMgvl_/view?usp=drive_link to WordPress
+[2025-07-26 11:56:48] Successfully processed: karmê-chöling-purkhang-with-grass-and-blue-sky-and-trees.jpg
+[2025-07-26 11:56:49] Processing image 9 of 20 (row 153 , ID:  )
+[2025-07-26 11:56:49] Starting processing for image ID: https://drive.google.com/file/d/1vbCqx1q8JSkNrxfW714ToKiGunj-QtfC/view?usp=drive_link
+[2025-07-26 11:56:49] Downloading image ID https://drive.google.com/file/d/1vbCqx1q8JSkNrxfW714ToKiGunj-QtfC/view?usp=drive_link from Google Drive
+[2025-07-26 11:56:53] Getting description for image ID https://drive.google.com/file/d/1vbCqx1q8JSkNrxfW714ToKiGunj-QtfC/view?usp=drive_link from Ollama
+[2025-07-26 11:57:38] Uploading image ID https://drive.google.com/file/d/1vbCqx1q8JSkNrxfW714ToKiGunj-QtfC/view?usp=drive_link to WordPress
+[2025-07-26 11:57:44] Successfully processed: karmê-chöling-purkhang-with-grass-and-blue-sky-and-trees-and-platform.jpg
+[2025-07-26 11:57:45] Processing image 10 of 20 (row 154 , ID:  )
+[2025-07-26 11:57:45] Starting processing for image ID: https://drive.google.com/file/d/1_MI9-0eWk0Exec9PIuedI_Hqjr0Ng6oF/view?usp=drive_link
+[2025-07-26 11:57:45] Downloading image ID https://drive.google.com/file/d/1_MI9-0eWk0Exec9PIuedI_Hqjr0Ng6oF/view?usp=drive_link from Google Drive
+[2025-07-26 11:57:48] Getting description for image ID https://drive.google.com/file/d/1_MI9-0eWk0Exec9PIuedI_Hqjr0Ng6oF/view?usp=drive_link from Ollama
+[2025-07-26 11:58:34] Uploading image ID https://drive.google.com/file/d/1_MI9-0eWk0Exec9PIuedI_Hqjr0Ng6oF/view?usp=drive_link to WordPress
+[2025-07-26 11:58:40] Successfully processed: karmê-chöling-purkhang-side-view-with-grass-and-blue-sky-and-trees.jpg
+[2025-07-26 11:58:41] Processing image 11 of 20 (row 155 , ID:  )
+[2025-07-26 11:58:41] Starting processing for image ID: https://drive.google.com/file/d/14obyKsp3dpYc1i5gx3tln3UnX0BvMgTh/view?usp=drive_link
+[2025-07-26 11:58:41] Downloading image ID https://drive.google.com/file/d/14obyKsp3dpYc1i5gx3tln3UnX0BvMgTh/view?usp=drive_link from Google Drive
+[2025-07-26 11:58:44] Getting description for image ID https://drive.google.com/file/d/14obyKsp3dpYc1i5gx3tln3UnX0BvMgTh/view?usp=drive_link from Ollama
+[2025-07-26 11:59:28] Uploading image ID https://drive.google.com/file/d/14obyKsp3dpYc1i5gx3tln3UnX0BvMgTh/view?usp=drive_link to WordPress
+[2025-07-26 11:59:33] Successfully processed: karmê-chöling-purkhang-corner-view-with-shadows-and-grass-and-blue-sky.jpg
+[2025-07-26 11:59:34] Processing image 12 of 20 (row 156 , ID:  )
+[2025-07-26 11:59:34] Starting processing for image ID: https://drive.google.com/file/d/1h0Ce_G7eUcZba8qKC2XcAabWui6mLsDf/view?usp=drive_link
+[2025-07-26 11:59:34] Downloading image ID https://drive.google.com/file/d/1h0Ce_G7eUcZba8qKC2XcAabWui6mLsDf/view?usp=drive_link from Google Drive
+[2025-07-26 11:59:37] Getting description for image ID https://drive.google.com/file/d/1h0Ce_G7eUcZba8qKC2XcAabWui6mLsDf/view?usp=drive_link from Ollama
+[2025-07-26 12:00:21] Uploading image ID https://drive.google.com/file/d/1h0Ce_G7eUcZba8qKC2XcAabWui6mLsDf/view?usp=drive_link to WordPress
+[2025-07-26 12:00:27] Successfully processed: karmê-chöling-purkhang-corner-view-with-shadows-and-platform-and-blue-sky-and-trees.jpg
+[2025-07-26 12:00:28] Processing image 13 of 20 (row 157 , ID:  )
+[2025-07-26 12:00:28] Starting processing for image ID: https://drive.google.com/file/d/1zpeo4DYPSVv9nJVC9grvtokCvuZXYmhw/view?usp=drive_link
+[2025-07-26 12:00:28] Downloading image ID https://drive.google.com/file/d/1zpeo4DYPSVv9nJVC9grvtokCvuZXYmhw/view?usp=drive_link from Google Drive
+[2025-07-26 12:00:31] Getting description for image ID https://drive.google.com/file/d/1zpeo4DYPSVv9nJVC9grvtokCvuZXYmhw/view?usp=drive_link from Ollama
+[2025-07-26 12:01:15] Uploading image ID https://drive.google.com/file/d/1zpeo4DYPSVv9nJVC9grvtokCvuZXYmhw/view?usp=drive_link to WordPress
+[2025-07-26 12:01:21] Successfully processed: karmê-chöling-purkhang-corner-view-closeup-with-blue-sky-and-moon.jpg
+[2025-07-26 12:01:22] Processing image 14 of 20 (row 158 , ID:  )
+[2025-07-26 12:01:22] Starting processing for image ID: https://drive.google.com/file/d/1u8rAzltjj0mDZDcwg10Lca5ZGVCrw0TA/view?usp=drive_link
+[2025-07-26 12:01:22] Downloading image ID https://drive.google.com/file/d/1u8rAzltjj0mDZDcwg10Lca5ZGVCrw0TA/view?usp=drive_link from Google Drive
+[2025-07-26 12:01:25] Getting description for image ID https://drive.google.com/file/d/1u8rAzltjj0mDZDcwg10Lca5ZGVCrw0TA/view?usp=drive_link from Ollama
+[2025-07-26 12:02:13] Uploading image ID https://drive.google.com/file/d/1u8rAzltjj0mDZDcwg10Lca5ZGVCrw0TA/view?usp=drive_link to WordPress
+[2025-07-26 12:02:19] Successfully processed: karmê-chöling-purkhang-corner-view-closeup-from-below-with-blue-sky-and-moon.jpg
+[2025-07-26 12:02:20] Processing image 15 of 20 (row 159 , ID:  )
+[2025-07-26 12:02:20] Starting processing for image ID: https://drive.google.com/file/d/1XE9u6Z9f5tXi8zmy1lAuImcU5iCa1Ob1/view?usp=drive_link
+[2025-07-26 12:02:20] Downloading image ID https://drive.google.com/file/d/1XE9u6Z9f5tXi8zmy1lAuImcU5iCa1Ob1/view?usp=drive_link from Google Drive
+[2025-07-26 12:02:22] Getting description for image ID https://drive.google.com/file/d/1XE9u6Z9f5tXi8zmy1lAuImcU5iCa1Ob1/view?usp=drive_link from Ollama
+[2025-07-26 12:03:13] Uploading image ID https://drive.google.com/file/d/1XE9u6Z9f5tXi8zmy1lAuImcU5iCa1Ob1/view?usp=drive_link to WordPress
+[2025-07-26 12:03:19] Successfully processed: karmê-chöling-purkhang-corner-view-closeup-from-below-with-blue-sky-and-moon-and-grass-and-shadow.jpg
+[2025-07-26 12:03:20] Processing image 16 of 20 (row 160 , ID:  )
+[2025-07-26 12:03:20] Starting processing for image ID: https://drive.google.com/file/d/1ooxpazl34dsWC3tsNjcPT9txA8mfuVDo/view?usp=drive_link
+[2025-07-26 12:03:20] Downloading image ID https://drive.google.com/file/d/1ooxpazl34dsWC3tsNjcPT9txA8mfuVDo/view?usp=drive_link from Google Drive
+[2025-07-26 12:03:27] Getting description for image ID https://drive.google.com/file/d/1ooxpazl34dsWC3tsNjcPT9txA8mfuVDo/view?usp=drive_link from Ollama
+[2025-07-26 12:04:13] Uploading image ID https://drive.google.com/file/d/1ooxpazl34dsWC3tsNjcPT9txA8mfuVDo/view?usp=drive_link to WordPress
+[2025-07-26 12:04:22] Successfully processed: karmê-chöling-purkhang-closeup-with-blue-sky-and-crescent-moon.jpg
+[2025-07-26 12:04:23] Processing image 17 of 20 (row 161 , ID:  )
+[2025-07-26 12:04:23] Starting processing for image ID: https://drive.google.com/file/d/1RHimoejBAEeijCfsHFOp5Yc6XPe7dkft/view?usp=drive_link
+[2025-07-26 12:04:23] Downloading image ID https://drive.google.com/file/d/1RHimoejBAEeijCfsHFOp5Yc6XPe7dkft/view?usp=drive_link from Google Drive
+[2025-07-26 12:04:25] Getting description for image ID https://drive.google.com/file/d/1RHimoejBAEeijCfsHFOp5Yc6XPe7dkft/view?usp=drive_link from Ollama
+[2025-07-26 12:05:09] Uploading image ID https://drive.google.com/file/d/1RHimoejBAEeijCfsHFOp5Yc6XPe7dkft/view?usp=drive_link to WordPress
+[2025-07-26 12:05:15] Successfully processed: karmê-chöling-purkhang-closeup-symmetrical-with-blue-sky-and-crescent-moon.jpg
+[2025-07-26 12:05:16] Processing image 18 of 20 (row 162 , ID:  )
+[2025-07-26 12:05:16] Starting processing for image ID: https://drive.google.com/file/d/1ATnl8IPv2ffoxdzG66wE-5IlA-D0ck1e/view?usp=drive_link
+[2025-07-26 12:05:16] Downloading image ID https://drive.google.com/file/d/1ATnl8IPv2ffoxdzG66wE-5IlA-D0ck1e/view?usp=drive_link from Google Drive
+[2025-07-26 12:05:18] Getting description for image ID https://drive.google.com/file/d/1ATnl8IPv2ffoxdzG66wE-5IlA-D0ck1e/view?usp=drive_link from Ollama
+[2025-07-26 12:06:03] Uploading image ID https://drive.google.com/file/d/1ATnl8IPv2ffoxdzG66wE-5IlA-D0ck1e/view?usp=drive_link to WordPress
+[2025-07-26 12:06:09] Successfully processed: karmê-chöling-purkhang-closeup-centered-symmetrical-with-blue-sky-and-crescent-moon.jpg
+[2025-07-26 12:06:10] Processing image 19 of 20 (row 163 , ID:  )
+[2025-07-26 12:06:10] Starting processing for image ID: https://drive.google.com/file/d/1ioDPCQCxz4nUSoqmY5DZ68nZg0EL0zPc/view?usp=drive_link
+[2025-07-26 12:06:10] Downloading image ID https://drive.google.com/file/d/1ioDPCQCxz4nUSoqmY5DZ68nZg0EL0zPc/view?usp=drive_link from Google Drive
+[2025-07-26 12:06:13] Getting description for image ID https://drive.google.com/file/d/1ioDPCQCxz4nUSoqmY5DZ68nZg0EL0zPc/view?usp=drive_link from Ollama
+[2025-07-26 12:07:01] Uploading image ID https://drive.google.com/file/d/1ioDPCQCxz4nUSoqmY5DZ68nZg0EL0zPc/view?usp=drive_link to WordPress
+[2025-07-26 12:07:16] Successfully processed: karmê-chöling-purkhang-panorama-with-sky-and-grass-and-shadows-and-trees.jpg
+[2025-07-26 12:07:17] Processing image 20 of 20 (row 164 , ID:  )
+[2025-07-26 12:07:17] Starting processing for image ID: https://drive.google.com/file/d/1Qeo3ntzlviYpSDsjXDTReThRUpwYxfiV/view?usp=drive_link
+[2025-07-26 12:07:17] Downloading image ID https://drive.google.com/file/d/1Qeo3ntzlviYpSDsjXDTReThRUpwYxfiV/view?usp=drive_link from Google Drive
+[2025-07-26 12:07:23] Getting description for image ID https://drive.google.com/file/d/1Qeo3ntzlviYpSDsjXDTReThRUpwYxfiV/view?usp=drive_link from Ollama
+[2025-07-26 12:08:12] Uploading image ID https://drive.google.com/file/d/1Qeo3ntzlviYpSDsjXDTReThRUpwYxfiV/view?usp=drive_link to WordPress
+[2025-07-26 12:08:19] Successfully processed: karmê-chöling-purkhang-side-view-with-shadows-and-grass-and-trees-and-sky.jpg
+[2025-07-26 12:08:20] === Batch processing completed ===
+[2025-07-26 12:08:20] Successfully processed: 20 images
+[2025-07-26 12:08:20] Failed to process: 0 images
+[2025-07-26 12:08:20] Rows 145 to 164 have been processed. Success: 20 | Failed: 0
+[2025-07-26 13:02:18] === Starting new batch processing session ===
+[2025-07-26 13:02:18] Batch configuration: Start row = 165 , Batch size = 20
+[2025-07-26 13:02:18] Loaded image data with 174 total images
+[2025-07-26 13:02:18] Processing rows 165 to 174 ( 10 images)
+[2025-07-26 13:02:18] Processing image 1 of 10 (row 165 , ID:  )
+[2025-07-26 13:02:18] Starting processing for image ID: https://drive.google.com/file/d/11MOZxiT_YOD_jFXpJaLHRcmh6sgd23K1/view?usp=drive_link
+[2025-07-26 13:02:18] Downloading image ID https://drive.google.com/file/d/11MOZxiT_YOD_jFXpJaLHRcmh6sgd23K1/view?usp=drive_link from Google Drive
+[2025-07-26 13:02:25] Getting description for image ID https://drive.google.com/file/d/11MOZxiT_YOD_jFXpJaLHRcmh6sgd23K1/view?usp=drive_link from Ollama
+[2025-07-26 13:03:26] Uploading image ID https://drive.google.com/file/d/11MOZxiT_YOD_jFXpJaLHRcmh6sgd23K1/view?usp=drive_link to WordPress
+[2025-07-26 13:03:37] Successfully processed: karmê-chöling-trees-and-grass-with-prayer-flags.jpg
+[2025-07-26 13:03:38] Processing image 2 of 10 (row 166 , ID:  )
+[2025-07-26 13:03:38] Starting processing for image ID: https://drive.google.com/file/d/1EyxAw6VgswP5J9ql94kTUIoC7AFVh3JS/view?usp=drive_link
+[2025-07-26 13:03:38] Downloading image ID https://drive.google.com/file/d/1EyxAw6VgswP5J9ql94kTUIoC7AFVh3JS/view?usp=drive_link from Google Drive
+[2025-07-26 13:03:42] Getting description for image ID https://drive.google.com/file/d/1EyxAw6VgswP5J9ql94kTUIoC7AFVh3JS/view?usp=drive_link from Ollama
+[2025-07-26 13:04:29] Uploading image ID https://drive.google.com/file/d/1EyxAw6VgswP5J9ql94kTUIoC7AFVh3JS/view?usp=drive_link to WordPress
+[2025-07-26 13:04:37] Successfully processed: karmê-chöling-trees-with-red-prayer-flags.jpg
+[2025-07-26 13:04:38] Processing image 3 of 10 (row 167 , ID:  )
+[2025-07-26 13:04:38] Starting processing for image ID: https://drive.google.com/file/d/1SLUDMRYjHqNU-HhuG1AK6T9RXY5u5mjj/view?usp=drive_link
+[2025-07-26 13:04:38] Downloading image ID https://drive.google.com/file/d/1SLUDMRYjHqNU-HhuG1AK6T9RXY5u5mjj/view?usp=drive_link from Google Drive
+[2025-07-26 13:04:42] Getting description for image ID https://drive.google.com/file/d/1SLUDMRYjHqNU-HhuG1AK6T9RXY5u5mjj/view?usp=drive_link from Ollama
+[2025-07-26 13:05:33] Uploading image ID https://drive.google.com/file/d/1SLUDMRYjHqNU-HhuG1AK6T9RXY5u5mjj/view?usp=drive_link to WordPress
+[2025-07-26 13:05:41] Successfully processed: karmê-chöling-trees-and-sun-with-with-red-prayer-flags.jpg
+[2025-07-26 13:05:42] Processing image 4 of 10 (row 168 , ID:  )
+[2025-07-26 13:05:42] Starting processing for image ID: https://drive.google.com/file/d/1DDEF6GiF2aT29b4qoQ9_f50cbrr5HErY/view?usp=drive_link
+[2025-07-26 13:05:42] Downloading image ID https://drive.google.com/file/d/1DDEF6GiF2aT29b4qoQ9_f50cbrr5HErY/view?usp=drive_link from Google Drive
+[2025-07-26 13:05:45] Getting description for image ID https://drive.google.com/file/d/1DDEF6GiF2aT29b4qoQ9_f50cbrr5HErY/view?usp=drive_link from Ollama
+[2025-07-26 13:06:31] Uploading image ID https://drive.google.com/file/d/1DDEF6GiF2aT29b4qoQ9_f50cbrr5HErY/view?usp=drive_link to WordPress
+[2025-07-26 13:06:38] Successfully processed: karmê-chöling-trees-and-bushes-with-string-of-prayer-flags.jpg
+[2025-07-26 13:06:39] Processing image 5 of 10 (row 169 , ID:  )
+[2025-07-26 13:06:39] Starting processing for image ID: https://drive.google.com/file/d/1CQwCieC8Fan0NHfKnJCtT6F4ottpUHRM/view?usp=drive_link
+[2025-07-26 13:06:39] Downloading image ID https://drive.google.com/file/d/1CQwCieC8Fan0NHfKnJCtT6F4ottpUHRM/view?usp=drive_link from Google Drive
+[2025-07-26 13:06:43] Getting description for image ID https://drive.google.com/file/d/1CQwCieC8Fan0NHfKnJCtT6F4ottpUHRM/view?usp=drive_link from Ollama
+[2025-07-26 13:07:30] Uploading image ID https://drive.google.com/file/d/1CQwCieC8Fan0NHfKnJCtT6F4ottpUHRM/view?usp=drive_link to WordPress
+[2025-07-26 13:07:37] Successfully processed: karmê-chöling-trees-and-bushes-with-string-of-prayer-flags-diagonal-view.jpg
+[2025-07-26 13:07:38] Processing image 6 of 10 (row 170 , ID:  )
+[2025-07-26 13:07:38] Starting processing for image ID: https://drive.google.com/file/d/11nEFQ2qpYBAGCpjgGwoQtmcLPXd96TEW/view?usp=drive_link
+[2025-07-26 13:07:38] Downloading image ID https://drive.google.com/file/d/11nEFQ2qpYBAGCpjgGwoQtmcLPXd96TEW/view?usp=drive_link from Google Drive
+[2025-07-26 13:07:43] Getting description for image ID https://drive.google.com/file/d/11nEFQ2qpYBAGCpjgGwoQtmcLPXd96TEW/view?usp=drive_link from Ollama
+[2025-07-26 13:08:36] Uploading image ID https://drive.google.com/file/d/11nEFQ2qpYBAGCpjgGwoQtmcLPXd96TEW/view?usp=drive_link to WordPress
+[2025-07-26 13:08:44] Successfully processed: karmê-chöling-trees-and-bushes-with-string-of-prayer-flags-diagonal-view-closeup.jpg
+[2025-07-26 13:08:45] Processing image 7 of 10 (row 171 , ID:  )
+[2025-07-26 13:08:45] Starting processing for image ID: https://drive.google.com/file/d/1lkYIPZui-oB_BiSxccQoSFn9abKN2CKH/view?usp=drive_link
+[2025-07-26 13:08:45] Downloading image ID https://drive.google.com/file/d/1lkYIPZui-oB_BiSxccQoSFn9abKN2CKH/view?usp=drive_link from Google Drive
+[2025-07-26 13:08:49] Getting description for image ID https://drive.google.com/file/d/1lkYIPZui-oB_BiSxccQoSFn9abKN2CKH/view?usp=drive_link from Ollama
+[2025-07-26 13:09:40] Uploading image ID https://drive.google.com/file/d/1lkYIPZui-oB_BiSxccQoSFn9abKN2CKH/view?usp=drive_link to WordPress
+[2025-07-26 13:09:46] Successfully processed: karmê-chöling-string-of-prayer-flags-diagonal-view-closeup.jpg
+[2025-07-26 13:09:47] Processing image 8 of 10 (row 172 , ID:  )
+[2025-07-26 13:09:47] Starting processing for image ID: https://drive.google.com/file/d/1_wswB15b3kPnV1BSHDI38DlY0td1goTz/view?usp=drive_link
+[2025-07-26 13:09:47] Downloading image ID https://drive.google.com/file/d/1_wswB15b3kPnV1BSHDI38DlY0td1goTz/view?usp=drive_link from Google Drive
+[2025-07-26 13:09:51] Getting description for image ID https://drive.google.com/file/d/1_wswB15b3kPnV1BSHDI38DlY0td1goTz/view?usp=drive_link from Ollama
+[2025-07-26 13:10:43] Uploading image ID https://drive.google.com/file/d/1_wswB15b3kPnV1BSHDI38DlY0td1goTz/view?usp=drive_link to WordPress
+[2025-07-26 13:10:50] Successfully processed: karmê-chöling-prayer-flags-with-trees-and-sky.jpg
+[2025-07-26 13:10:51] Processing image 9 of 10 (row 173 , ID:  )
+[2025-07-26 13:10:51] Starting processing for image ID: https://drive.google.com/file/d/1ThDjS2QMaT-dl4A4H46PsWEjl1RQ33VH/view?usp=drive_link
+[2025-07-26 13:10:51] Downloading image ID https://drive.google.com/file/d/1ThDjS2QMaT-dl4A4H46PsWEjl1RQ33VH/view?usp=drive_link from Google Drive
+[2025-07-26 13:10:54] Getting description for image ID https://drive.google.com/file/d/1ThDjS2QMaT-dl4A4H46PsWEjl1RQ33VH/view?usp=drive_link from Ollama
+[2025-07-26 13:11:42] Uploading image ID https://drive.google.com/file/d/1ThDjS2QMaT-dl4A4H46PsWEjl1RQ33VH/view?usp=drive_link to WordPress
+[2025-07-26 13:11:50] Successfully processed: karmê-chöling-prayer-flags-with-sky.jpg
+[2025-07-26 13:11:51] Processing image 10 of 10 (row 174 , ID:  )
+[2025-07-26 13:11:51] Starting processing for image ID: https://drive.google.com/file/d/1gP1eLqN064bhZJJBDaKYMzb3J4sRJws_/view?usp=drive_link
+[2025-07-26 13:11:51] Downloading image ID https://drive.google.com/file/d/1gP1eLqN064bhZJJBDaKYMzb3J4sRJws_/view?usp=drive_link from Google Drive
+[2025-07-26 13:11:55] Getting description for image ID https://drive.google.com/file/d/1gP1eLqN064bhZJJBDaKYMzb3J4sRJws_/view?usp=drive_link from Ollama
+[2025-07-26 13:12:42] Uploading image ID https://drive.google.com/file/d/1gP1eLqN064bhZJJBDaKYMzb3J4sRJws_/view?usp=drive_link to WordPress
+[2025-07-26 13:12:49] Successfully processed: karmê-chöling-tree-with-prayer-flags-and-sky.jpg
+[2025-07-26 13:12:50] === Batch processing completed ===
+[2025-07-26 13:12:50] Successfully processed: 10 images
+[2025-07-26 13:12:50] Failed to process: 0 images
+[2025-07-26 13:12:50] Rows 165 to 174 have been processed. Success: 10 | Failed: 0
