@@ -25,6 +25,7 @@ ERROR_LOG <- "general_image_processing_errors.txt"
 
 # File paths
 IMAGE_DATA_FILE <- here("data", "image_details_unique.rds")
+image_details_unique <- read_rds(here("data", "image_details_unique.rds"))
 
 # API configurations
 drive_auth(email = "john.smith@shambhala.info")

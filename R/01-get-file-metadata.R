@@ -14,7 +14,7 @@ library(ourmirror)
 # Authenticate with Google Drive
 # might be done previously
 
-# drive_auth()
+drive_auth()
 
 
 # Function to resolve Google Drive ID redirects
@@ -323,45 +323,15 @@ process_image_files_with_resolution <- function(file_ids, batch_size = 50) {
 }
 
 # Test with your specific example
-test_id <- "1OF2gubExHJ-VMByOTilER_bpoHVBSSxz"
-cat("Testing ID resolution with your example...\n")
-test_result <- resolve_drive_id(test_id)
-cat("Original ID:", test_result$original_id, "\n")
-cat("Resolved ID:", test_result$resolved_id, "\n")
-cat("Status:", test_result$status, "\n\n")
+# test_id <- "1OF2gubExHJ-VMByOTilER_bpoHVBSSxz"
+# cat("Testing ID resolution with your example...\n")
+# test_result <- resolve_drive_id(test_id)
+# cat("Original ID:", test_result$original_id, "\n")
+# cat("Resolved ID:", test_result$resolved_id, "\n")
+# cat("Status:", test_result$status, "\n\n")
 
-# Example usage for all your files:
-# Replace this with your actual list of file IDs/URLs
-# your_file_ids <- c(
-#   "1OF2gubExHJ-VMByOTilER_bpoHVBSSxz",  # Your example
-#   # ... add your other 1399 file IDs here
-# )
-
-# If you have your IDs in a CSV file:
-# your_file_ids <- read.csv("file_ids.csv")$file_id
-
-# Process all files with ID resolution
-# image_details <- process_image_files_with_resolution(your_file_ids)
-
-# Save results
-# write.csv(image_details, "google_drive_image_details_resolved.csv", row.names = FALSE)
-
-# View results
-# View(image_details)
-
-# Example analysis:
-# # Check resolution success rate
-# resolution_summary <- image_details %>%
-#   summarise(
-#     total_files = n(),
-#     successfully_resolved = sum(!is.na(resolved_id)),
-#     actual_images = sum(is_image, na.rm = TRUE),
-#     resolution_rate = round(successfully_resolved / total_files * 100, 2)
-#   )
-#
-# print(resolution_summary)
-
-images_spreadsheet <- read_sheet("https://docs.google.com/spreadsheets/d/1oKNLxr6IuZ_DQ4fUCyxE7qxF_RtIISay8QeoIz8o4ag/edit?gid=1239795533#gid=1239795533") |>
+images_spreadsheet <- read_sheet("https://docs.google.com/spreadsheets/d/1oKNLxr6IuZ_DQ4fUCyxE7qxF_RtIISay8QeoIz8o4ag/edit?gid=1239795533#gid=1239795533",
+                                 sheet = "Only Yes Images from Main Drive") |>
   clean_names()
 
 # yes_ids <- images_spreadsheet |>
@@ -375,31 +345,22 @@ your_file_ids <- images_spreadsheet$id
 image_details <- process_image_files_with_resolution(images_spreadsheet$id)
 
 write_rds(image_details, here("data", "image_details.rds"))
+write_rds(images_spreadsheet, here("data", "images_spreadsheet.rds"))
+#####
+# Check for
+# * unique resolved_id
+# * duplicate / overlapping vars between the 2 files
+# * strip out "Drive/Marketing and Communications/Images/"
+#   from image_details.directory
+# * decide on the order of variables for the description field
+
 image_details <- read_rds(here("data", "image_details.rds"))
 
-
-# Save results
-# write.csv(image_details, "google_drive_image_details_resolved.csv", row.names = FALSE)
-
-# View results
-# View(image_details)
-
-# Example analysis:
-# # Check resolution success rate
-# resolution_summary <- image_details %>%
-#   summarise(
-#     total_files = n(),
-#     successfully_resolved = sum(!is.na(resolved_id)),
-#     actual_images = sum(is_image, na.rm = TRUE),
-#     resolution_rate = round(successfully_resolved / total_files * 100, 2)
-#   )
-#
-# print(resolution_summary)
 file_documentation <- mrr_job_doc()
 
 image_details_full <- image_details |>
   left_join(images_spreadsheet, by = c ("original_id" = "id")) |>
-  select(-c(error, size, new_filename, category_descriptions, x12, x13)) |>
+  select(-c(error, size, x1, x2)) |>
   rename(old_url = url)
 
 # image_details_full <- images_spreadsheet |>
@@ -414,13 +375,13 @@ ss <- gs4_create(
 )
 gs4_browse(ss)
 
-kcl_images_spreadsheet <-
-  read_sheet("https://docs.google.com/spreadsheets/d/1oKNLxr6IuZ_DQ4fUCyxE7qxF_RtIISay8QeoIz8o4ag/edit?gid=1853901660#gid=1853901660",
-    sheet = "KCL_Images_For_Import") |>
-  clean_names() |>
-  select(url, folder_description, target_filename,
-         text_description_for_text_and_filename) |>
-  mutate(folder_description = str_remove(folder_description, "\n\n---")) |>
-  distinct(url, .keep_all = TRUE)
-
-write_rds(kcl_images_spreadsheet, here("data", "kcl_images_spreadsheet.rds"))
+# kcl_images_spreadsheet <-
+#   read_sheet("https://docs.google.com/spreadsheets/d/1oKNLxr6IuZ_DQ4fUCyxE7qxF_RtIISay8QeoIz8o4ag/edit?gid=1853901660#gid=1853901660",
+#     sheet = "KCL_Images_For_Import") |>
+#   clean_names() |>
+#   select(url, folder_description, target_filename,
+#          text_description_for_text_and_filename) |>
+#   mutate(folder_description = str_remove(folder_description, "\n\n---")) |>
+#   distinct(url, .keep_all = TRUE)
+#
+# write_rds(kcl_images_spreadsheet, here("data", "kcl_images_spreadsheet.rds"))

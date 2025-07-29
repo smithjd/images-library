@@ -1,0 +1,36 @@
+---
+title: "timing"
+format: html
+editor: visual
+---
+
+```{r}
+library(tidyverse)
+```
+
+```{r}
+success_log <- read_delim("success_log.tsv", delim = " ", skip = 0, 
+                          col_names = FALSE)  |> 
+  select(X1:X2, X5) |> 
+  rename(date = X1, time = X2, file = X5) |>
+  mutate(date = str_remove(date, "\\["),
+         time = str_remove(time, "\\]"))
+  
+glimpse(success_log)
+```
+
+```{r}
+success_log_v1 <- success_log |> 
+  mutate(time = hms(time),
+         elapsed = time - lag(time),
+         seconds = as.numeric(elapsed)) |> 
+  filter(!str_detect(file," images"),
+         !is.na(elapsed))
+
+glimpse(success_log_v1)
+```
+
+```{r}
+ggplot(success_log_v1, aes(date, elapsed)) +
+  geom_boxplot()
+```
